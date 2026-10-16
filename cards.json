@@ -1,6 +1,294 @@
 {
  "cards": [
   {
+   "id": "4bd4949615",
+   "ru": "курилка",
+   "tr": "smoking area",
+   "note": "Daria · 2026-10-16",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "e73b107fde",
+   "ru": "столкнуться с кем-то",
+   "tr": "to bump into someone",
+   "note": "Daria · 2026-10-16 · я столкнулся с ним",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "55cb787dfb",
+   "ru": "праздновать день рождения",
+   "tr": "to celebrate a birthday",
+   "note": "Daria · 2026-10-16",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "fdba2aef91",
+   "ru": "гордый",
+   "tr": "proud",
+   "note": "Daria · 2026-10-16 · она была очень гордая",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "28db327c42",
+   "ru": "хорошо проводить время",
+   "tr": "to have a good time",
+   "note": "Daria · 2026-10-16 · « наслаждаться » est trop fort à l'oral",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "e57728f8f5",
+   "ru": "наполовину француз",
+   "tr": "half French",
+   "note": "Daria · 2026-10-16 · correction : pas « половину француз »",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "4a0fe453d8",
+   "ru": "на юге Франции",
+   "tr": "in the south of France",
+   "note": "Daria · 2026-10-16 · correction : pas « на южной части Франции »",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "edb6167722",
+   "ru": "извиниться перед кем-то",
+   "tr": "to apologize to someone",
+   "note": "Daria · 2026-10-16 · correction : она извинилась перед Луком (pas « к Луку »)",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "7f763c5f5a",
+   "ru": "много рекламы",
+   "tr": "a lot of ads",
+   "note": "Daria · 2026-10-16 · correction : toujours au singulier",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "047af7f4c3",
+   "ru": "подписаться на кого-то в Инстаграме",
+   "tr": "to follow someone on Instagram",
+   "note": "Daria · 2026-10-16 · correction : в Инстаграме (pas « на Инстаграм »)",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "4508d7d9aa",
+   "ru": "я мог везде ходить",
+   "tr": "I could walk everywhere",
+   "note": "Daria · 2026-10-16",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "8277db0046",
+   "ru": "я сосредоточен на",
+   "tr": "I'm focused on",
+   "note": "Daria · 2026-10-16 · я сосредоточен на бизнесе (adjectif court)",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "ef831a920a",
+   "ru": "какой-то обман",
+   "tr": "some kind of scam",
+   "note": "Daria · 2026-10-16",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "7571895234",
+   "ru": "хлопать",
+   "tr": "to clap",
+   "note": "Daria · 2026-10-16 · аплодировать = plus formel",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "cd330eb2b1",
+   "ru": "фейерверк / салют",
+   "tr": "fireworks",
+   "note": "Daria · 2026-10-16",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "e3c196ec07",
+   "ru": "комично",
+   "tr": "comically, funny",
+   "note": "Daria · 2026-10-16 · было очень комично",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "38474240d7",
+   "ru": "повести себя с кем-то",
+   "tr": "to behave towards someone",
+   "note": "Daria · 2026-10-16 · он повёл себя так же, как с французом",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "7861317007",
+   "ru": "позаботиться о ком-то",
+   "tr": "to take care of someone",
+   "note": "Daria · 2026-10-16 · en bien ; ironique pour un mauvais traitement",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "7f84d0c3b2",
+   "ru": "посттравматический синдром",
+   "tr": "PTSD (ПТСР)",
+   "note": "Daria · 2026-10-16",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "4e3441d292",
+   "ru": "вручную",
+   "tr": "manually, by hand",
+   "note": "Daria · 2026-10-16 · correction : pas « мануально »",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "259507aeae",
+   "ru": "база данных",
+   "tr": "database",
+   "note": "Daria · 2026-10-16 · correction : pas « данные база »",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "6a70df4c48",
+   "ru": "пока я жив",
+   "tr": "while I'm alive",
+   "note": "Daria · 2026-10-16",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "568a2e455e",
+   "ru": "без вождения",
+   "tr": "without driving",
+   "note": "Daria · 2026-10-16 · après « без » : génitif, jamais de verbe",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "7e7e8fcde2",
+   "ru": "без того, чтобы",
+   "tr": "without (+ verb clause)",
+   "note": "Daria · 2026-10-16 · без того, чтобы водить машину",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "11e1f442df",
+   "ru": "осваивать/освоить",
+   "tr": "to master, to learn (a tool)",
+   "note": "Daria · 2026-10-16 · надо осваивать Claude Code",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "f9558a227c",
+   "ru": "мне лень",
+   "tr": "I can't be bothered",
+   "note": "Daria · 2026-10-16 · что-то пока лень",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "95b8ee6ee4",
+   "ru": "лайкнуть",
+   "tr": "to like (a post)",
+   "note": "Daria · 2026-10-16",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "5e37da16ab",
+   "ru": "это впечатляет",
+   "tr": "it's impressive",
+   "note": "Daria · 2026-10-16",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "4db9b9b3f9",
+   "ru": "летающая машина",
+   "tr": "flying car",
+   "note": "Daria · 2026-10-16",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "4ecdd22420",
+   "ru": "роскошно",
+   "tr": "luxurious, a luxury",
+   "note": "Daria · 2026-10-16 · массаж — это слишком роскошно",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "342b4a753f",
+   "ru": "Ничего себе! / Вот это да!",
+   "tr": "Wow! No way!",
+   "note": "Daria · 2026-10-16",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
+   "id": "b5e431231b",
+   "ru": "капец",
+   "tr": "(slang) that's insane; disaster",
+   "note": "Daria · 2026-10-16",
+   "tags": [
+    "cours-2026-10-16-daria"
+   ]
+  },
+  {
    "id": "7a5059122a",
    "ru": "кофемашина",
    "tr": "coffee machine",
@@ -5473,6 +5761,132 @@
    ]
   },
   {
+   "id": "5f9b3c0340",
+   "ru": "бережно",
+   "tr": "carefully, gently",
+   "note": "Zoya · chat Teams · 2024-12-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "75c74bf8c5",
+   "ru": "день отдыха",
+   "tr": "day off",
+   "note": "Zoya · chat Teams · 2024-12-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "3a59babe05",
+   "ru": "еврейские корни",
+   "tr": "Jewish roots",
+   "note": "Zoya · chat Teams · 2024-12-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "7c39604f0e",
+   "ru": "коробка",
+   "tr": "box",
+   "note": "Zoya · chat Teams · 2024-12-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "e2f9d41913",
+   "ru": "крамбамбуля",
+   "tr": "krambambulya (Belarusian spiced honey liqueur)",
+   "note": "Zoya · chat Teams · 2024-12-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "1464fe2329",
+   "ru": "настойка",
+   "tr": "homemade infused liqueur",
+   "note": "Zoya · chat Teams · 2024-12-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "fe4eb2f830",
+   "ru": "разделить пополам",
+   "tr": "to split in half",
+   "note": "Zoya · chat Teams · 2024-12-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "bdd09d7457",
+   "ru": "россияне / русские",
+   "tr": "citizens of Russia / ethnic Russians",
+   "note": "Zoya · chat Teams · 2024-12-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "2ae087dc8c",
+   "ru": "с пустыми руками",
+   "tr": "empty-handed",
+   "note": "Zoya · chat Teams · 2024-12-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "b68de353a7",
+   "ru": "самогон",
+   "tr": "moonshine",
+   "note": "Zoya · chat Teams · 2024-12-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "78da1de7ed",
+   "ru": "святой",
+   "tr": "saint; holy",
+   "note": "Zoya · chat Teams · 2024-12-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "c3c8ab7642",
+   "ru": "с платком",
+   "tr": "with a headscarf",
+   "note": "Zoya · chat Teams · 2024-12-24",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "82a54c2466",
+   "ru": "надумывать проблемы",
+   "tr": "to make up problems in one's head",
+   "note": "Zoya · chat Teams · 2024-12-11",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "fa5b2d4359",
+   "ru": "окружение",
+   "tr": "entourage, surroundings",
+   "note": "Zoya · chat Teams · 2024-12-11",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
    "id": "0793fc63cb",
    "ru": "У (тебя) промыты мозги",
    "tr": "(You are) brainwashed",
@@ -5482,12 +5896,210 @@
    ]
   },
   {
+   "id": "399bcd4509",
+   "ru": "мебель",
+   "tr": "furniture (feminine, no plural)",
+   "note": "Zoya · chat Teams · 2024-11-28",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "b057817616",
+   "ru": "бег",
+   "tr": "running",
+   "note": "Zoya · chat Teams · 2024-11-28",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "5909026757",
+   "ru": "без подготовки",
+   "tr": "without preparation, off the cuff",
+   "note": "Zoya · chat Teams · 2024-11-28",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "60d9f9c383",
+   "ru": "жир",
+   "tr": "fat",
+   "note": "Zoya · chat Teams · 2024-11-28",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "afcded8555",
+   "ru": "краткое содержание",
+   "tr": "summary",
+   "note": "Zoya · chat Teams · 2024-11-28",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "9b661297db",
+   "ru": "марафон",
+   "tr": "marathon",
+   "note": "Zoya · chat Teams · 2024-11-28",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "d3591ef64b",
+   "ru": "прикидываться больным",
+   "tr": "to pretend to be sick",
+   "note": "Zoya · chat Teams · 2024-11-25",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "8d34538729",
+   "ru": "содержанка",
+   "tr": "kept woman",
+   "note": "Zoya · chat Teams · 2024-11-25",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "193c77f76d",
+   "ru": "верстовой столб",
+   "tr": "milestone (roadside marker)",
+   "note": "Zoya · chat Teams · 2024-11-20",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "a945a9491e",
+   "ru": "он кусок дерьма",
+   "tr": "he's a piece of shit (vulgar)",
+   "note": "Zoya · chat Teams · 2024-11-18",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "8cce15a81e",
+   "ru": "боёк",
+   "tr": "firing pin",
+   "note": "Zoya · chat Teams · 2024-11-14",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "ae5a60ecd9",
+   "ru": "капсюль",
+   "tr": "primer (of a cartridge)",
+   "note": "Zoya · chat Teams · 2024-11-14",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "6fd797f03f",
+   "ru": "стричься",
+   "tr": "to get a haircut",
+   "note": "Zoya · chat Teams · 2024-11-14 · я стригусь, ты стрижёшься, они стригутся",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "304de25fcb",
+   "ru": "дать: я дам, ты дашь",
+   "tr": "to give: I'll give, you'll give",
+   "note": "Zoya · chat Teams · 2024-11-06 · мы дадим, вы дадите, они дадут",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "0390fd2db1",
+   "ru": "МРТ",
+   "tr": "MRI",
+   "note": "Zoya · chat Teams · 2024-10-24",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "68005a1b09",
+   "ru": "отмечать/отметить",
+   "tr": "to celebrate; to mark",
+   "note": "Zoya · chat Teams · 2024-10-24",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
    "id": "a1fc2d00d7",
    "ru": "Всего. Всего я проехал 1672 километра",
    "tr": "In total",
    "note": "Daria · 2024-10-18",
    "tags": [
     "daria-doc"
+   ]
+  },
+  {
+   "id": "b52f38fbe3",
+   "ru": "записанный смех",
+   "tr": "laugh track",
+   "note": "Zoya · chat Teams · 2024-09-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "47a73c90f0",
+   "ru": "источник мудрости",
+   "tr": "source of wisdom",
+   "note": "Zoya · chat Teams · 2024-09-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "1de9b12e87",
+   "ru": "скульптура",
+   "tr": "sculpture",
+   "note": "Zoya · chat Teams · 2024-09-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "35446cfe96",
+   "ru": "статуя",
+   "tr": "statue",
+   "note": "Zoya · chat Teams · 2024-09-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "208ea97fdd",
+   "ru": "я предполагаю",
+   "tr": "I suppose, I assume",
+   "note": "Zoya · chat Teams · 2024-09-26",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "574c3b4dd1",
+   "ru": "в любой момент",
+   "tr": "at any moment",
+   "note": "Zoya · chat Teams · 2024-09-24",
+   "tags": [
+    "zoya-teams-2024"
    ]
   },
   {
@@ -5515,6 +6127,96 @@
    "note": "Daria · 2024-09-13",
    "tags": [
     "daria-doc"
+   ]
+  },
+  {
+   "id": "48db6e2955",
+   "ru": "тонкая талия",
+   "tr": "slim waist",
+   "note": "Zoya · chat Teams · 2024-09-09 · тонкий = fin, mince (тонкие пальцы, тонкая тетрадь)",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "2581696560",
+   "ru": "кислород",
+   "tr": "oxygen",
+   "note": "Zoya · chat Teams · 2024-09-04",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "17c86444f8",
+   "ru": "лицемер",
+   "tr": "hypocrite",
+   "note": "Zoya · chat Teams · 2024-09-04",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "6de6f5a8bf",
+   "ru": "несчастный случай",
+   "tr": "accident",
+   "note": "Zoya · chat Teams · 2024-09-04",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "0c1386461b",
+   "ru": "подключаться",
+   "tr": "to connect, to join (a call)",
+   "note": "Zoya · chat Teams · 2024-09-04",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "39b4a4ff2d",
+   "ru": "прыгать со скалы",
+   "tr": "to jump off a cliff",
+   "note": "Zoya · chat Teams · 2024-09-04",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "e6a0cac19d",
+   "ru": "с собой",
+   "tr": "with oneself; to take away",
+   "note": "Zoya · chat Teams · 2024-09-04",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "3d7e866ee8",
+   "ru": "Желаю…",
+   "tr": "I wish (you)…",
+   "note": "Zoya · chat Teams · 2024-09-03",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "8540666d2f",
+   "ru": "гладить кота",
+   "tr": "to stroke the cat",
+   "note": "Zoya · chat Teams · 2024-09-02",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "f539efed17",
+   "ru": "средние века",
+   "tr": "Middle Ages",
+   "note": "Zoya · chat Teams · 2024-09-02",
+   "tags": [
+    "zoya-teams-2024"
    ]
   },
   {
