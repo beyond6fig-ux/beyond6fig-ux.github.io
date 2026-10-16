@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#14161c">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Doza</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <span class="logo">доза</span>
+    <span id="level-chip" class="level-chip"></span>
+    <span id="stats" class="stats"></span>
+    <button id="btn-settings" class="icon" aria-label="Réglages">⚙︎</button>
+  </header>
+
+  <div id="goal" class="goal">
+    <div class="goal-row"><span id="goal-text"></span><span id="goal-pct"></span></div>
+    <div class="goal-bar"><div id="goal-fill"></div></div>
+  </div>
+
+  <main id="view-review">
+    <div class="progress-row"><div id="progress" class="progress"></div><span id="combo" class="combo" hidden></span></div>
+    <section id="card" class="card">
+      <div id="prompt-lang" class="lang"></div>
+      <div id="prompt" class="prompt"></div>
+      <button id="btn-speak" class="icon speak" aria-label="Écouter">🔊</button>
+      <button id="btn-mic" class="icon mic" aria-label="Dire le mot en russe" hidden>🎤</button>
+      <div id="heard" class="heard" hidden></div>
+      <div id="answer" class="answer" hidden>
+        <div id="answer-text" class="answer-text"></div>
+        <div id="note" class="note"></div>
+      </div>
+    </section>
+    <div id="actions" class="actions">
+      <button id="btn-show" class="primary">Voir la réponse</button>
+      <div id="grades" class="grades" hidden>
+        <button data-grade="0" class="again">Raté<small id="hint-0"></small></button>
+        <button data-grade="2" class="good">Bien<small id="hint-2"></small></button>
+        <button data-grade="3" class="easy">Facile<small id="hint-3"></small></button>
+      </div>
+    </div>
+  </main>
+
+  <main id="view-done" hidden>
+    <div class="done">
+      <div id="done-title" class="big">Готово ✓</div>
+      <p id="done-text"></p>
+      <dl id="summary" class="summary"></dl>
+      <div class="milestone-wrap">
+        <div id="milestone-label" class="level-label"></div>
+        <div class="milestone"><div id="milestone-fill"></div></div>
+      </div>
+      <div class="heat">
+        <div id="heatmap" class="heatmap"></div>
+        <div class="heat-legend">12 dernières semaines · peu <i class="l1"></i><i class="l2"></i><i class="l3"></i> objectif atteint</div>
+      </div>
+      <a id="btn-return" class="primary" href="#">Retour</a>
+      <button id="btn-more" class="ghost">Encore une dose</button>
+    </div>
+  </main>
+
+  <main id="view-settings" hidden>
+    <h2>Réglages</h2>
+    <label>Cartes par dose
+      <select id="set-n"><option>3</option><option>4</option><option>5</option><option>8</option><option>10</option></select>
+    </label>
+    <label>Objectif de cartes par jour
+      <select id="set-goal"><option>20</option><option>30</option><option>50</option><option>80</option><option>100</option><option>150</option></select>
+    </label>
+    <label>Nouvelles cartes par jour
+      <select id="set-new"><option>0</option><option>5</option><option>10</option><option>15</option><option>20</option><option>30</option></select>
+    </label>
+    <label>Sens
+      <select id="set-dir">
+        <option value="mix">Les deux (traduction → russe débloqué une fois le mot acquis)</option>
+        <option value="ru">Russe → traduction seulement</option>
+        <option value="tr">Traduction → russe seulement</option>
+      </select>
+    </label>
+    <label class="row"><input type="checkbox" id="set-tts"> Prononcer le russe automatiquement</label>
+    <p id="deck-info" class="muted"></p>
+    <div class="buttons">
+      <button id="btn-export" class="ghost">Sauvegarder ma progression</button>
+      <label class="ghost file">Restaurer une sauvegarde<input type="file" id="file-import" accept="application/json" hidden></label>
+      <button id="btn-reset" class="danger">Tout remettre à zéro</button>
+    </div>
+    <button id="btn-back" class="primary">Fermer</button>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

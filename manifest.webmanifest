@@ -1,0 +1,9 @@
+{
+  "name": "Doza — russe en micro-doses",
+  "short_name": "Doza",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#14161c",
+  "theme_color": "#14161c",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
