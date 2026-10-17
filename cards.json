@@ -1,6 +1,213 @@
 {
  "cards": [
   {
+   "id": "41e9bd086d",
+   "ru": "танцевать до упаду",
+   "tr": "to dance till you drop",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "46d9eb0e8c",
+   "ru": "подтолкнуть кого-то к решению",
+   "tr": "to nudge someone into deciding",
+   "note": "Daria · 2026-10-17 · gentle push",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "42759fdf99",
+   "ru": "текучий",
+   "tr": "fluid, ever-changing",
+   "note": "Daria · 2026-10-17 · моя жизнь текучая",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "9891bd4598",
+   "ru": "дольше",
+   "tr": "longer (in time)",
+   "note": "Daria · 2026-10-17 · correction : pas « длиннее » pour le temps (остаться дольше)",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "1676682407",
+   "ru": "выспаться",
+   "tr": "to get enough sleep",
+   "note": "Daria · 2026-10-17 · я не выспался",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "3757ecb164",
+   "ru": "вернуть цвета",
+   "tr": "to bring the colours back",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "86ef8bae84",
+   "ru": "достигнуть цели",
+   "tr": "to reach a goal",
+   "note": "Daria · 2026-10-17 · он достигнет цели (génitif)",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "efe3196cca",
+   "ru": "проверка банковских счетов",
+   "tr": "bank account audit",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "584925305a",
+   "ru": "грязная работа",
+   "tr": "dirty work",
+   "note": "Daria · 2026-10-17 · correction : pas « нечистая работа »",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "865515ca6b",
+   "ru": "наёмные сотрудники",
+   "tr": "hired employees",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "7b9a66f690",
+   "ru": "оборот",
+   "tr": "turnover (revenue)",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "1a345942d6",
+   "ru": "ценный актив",
+   "tr": "valuable asset",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "40974bea69",
+   "ru": "подписать документ",
+   "tr": "to sign a document",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "023c17c027",
+   "ru": "жизнь пирата",
+   "tr": "pirate's life",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "bd4187805e",
+   "ru": "пробные рилсы",
+   "tr": "trial reels",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "832c04a9ee",
+   "ru": "перезагрузить",
+   "tr": "to reload, to restart",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "d0846f15e5",
+   "ru": "раздумывать",
+   "tr": "to mull over, to overthink",
+   "note": "Daria · 2026-10-17 · он много раздумывал",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "31abc3a4df",
+   "ru": "не двигаться",
+   "tr": "to stay still",
+   "note": "Daria · 2026-10-17 · оставаться на месте",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "44a1b3c89c",
+   "ru": "паниковать",
+   "tr": "to panic",
+   "note": "Daria · 2026-10-17 · correction : они паникуют (pas « паникуруют »)",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "f02bb04871",
+   "ru": "суперсила",
+   "tr": "superpower",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "3769f90c09",
+   "ru": "в нашей команде",
+   "tr": "on our team",
+   "note": "Daria · 2026-10-17 · correction : pas « на своей команде »",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "ef331f591b",
+   "ru": "он понял себя лучше",
+   "tr": "he understood himself better",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
+   "id": "ecafa018e2",
+   "ru": "мы оба опоздали",
+   "tr": "we were both late",
+   "note": "Daria · 2026-10-17",
+   "tags": [
+    "cours-2026-10-17-daria"
+   ]
+  },
+  {
    "id": "4bd4949615",
    "ru": "курилка",
    "tr": "smoking area",
@@ -6220,6 +6427,456 @@
    ]
   },
   {
+   "id": "13ca041049",
+   "ru": "без ограничения",
+   "tr": "without limit",
+   "note": "Zoya · chat Teams · 2024-08-29",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "baea63220c",
+   "ru": "бульба",
+   "tr": "potato (Belarusian)",
+   "note": "Zoya · chat Teams · 2024-08-29",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "f894043280",
+   "ru": "в эти края",
+   "tr": "to these parts",
+   "note": "Zoya · chat Teams · 2024-08-29",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "633c61c858",
+   "ru": "во многих вещах",
+   "tr": "in many things",
+   "note": "Zoya · chat Teams · 2024-08-29",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "0b10883125",
+   "ru": "золотые руки",
+   "tr": "golden hands (very skilled)",
+   "note": "Zoya · chat Teams · 2024-08-29",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "5f2b57d703",
+   "ru": "водолей",
+   "tr": "Aquarius",
+   "note": "Zoya · chat Teams · 2024-08-27",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "dea7307e42",
+   "ru": "выглядеть по-другому",
+   "tr": "to look different",
+   "note": "Zoya · chat Teams · 2024-08-14",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "c2db603b74",
+   "ru": "голова в облаках",
+   "tr": "head in the clouds",
+   "note": "Zoya · chat Teams · 2024-08-14",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "d3c538fa36",
+   "ru": "отрастить волосы",
+   "tr": "to grow one's hair",
+   "note": "Zoya · chat Teams · 2024-08-14",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "9bd948e068",
+   "ru": "позвоночник",
+   "tr": "spine",
+   "note": "Zoya · chat Teams · 2024-08-14",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "7c1568ba90",
+   "ru": "поменять парикмахера",
+   "tr": "to change hairdresser",
+   "note": "Zoya · chat Teams · 2024-08-14",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "43dc4ff7eb",
+   "ru": "в продажах",
+   "tr": "in sales",
+   "note": "Zoya · chat Teams · 2024-08-13",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "a9f3048638",
+   "ru": "незаконнорождённые дети",
+   "tr": "illegitimate children",
+   "note": "Zoya · chat Teams · 2024-08-13",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "503c369d2c",
+   "ru": "расследовать",
+   "tr": "to investigate",
+   "note": "Zoya · chat Teams · 2024-08-13",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "23f128cd0e",
+   "ru": "рекламное агентство",
+   "tr": "advertising agency",
+   "note": "Zoya · chat Teams · 2024-08-13",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "00adb41f8c",
+   "ru": "рыжий",
+   "tr": "red-haired, ginger",
+   "note": "Zoya · chat Teams · 2024-08-13",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "29f6c666e1",
+   "ru": "токсичный",
+   "tr": "toxic",
+   "note": "Zoya · chat Teams · 2024-08-13",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "ca1db88cdb",
+   "ru": "постой!",
+   "tr": "wait! hold on!",
+   "note": "Zoya · chat Teams · 2024-08-06",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "02fe176737",
+   "ru": "ноль",
+   "tr": "zero",
+   "note": "Zoya · chat Teams · 2024-08-01",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "320882c89a",
+   "ru": "версия",
+   "tr": "version",
+   "note": "Zoya · chat Teams · 2024-07-30",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "dbf52acce3",
+   "ru": "вершина",
+   "tr": "summit, peak",
+   "note": "Zoya · chat Teams · 2024-07-30",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "4035ae833d",
+   "ru": "всадник",
+   "tr": "rider, horseman",
+   "note": "Zoya · chat Teams · 2024-07-30",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "476169c987",
+   "ru": "лицемерие",
+   "tr": "hypocrisy",
+   "note": "Zoya · chat Teams · 2024-07-30",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "dd1e28308e",
+   "ru": "на барабанах",
+   "tr": "on drums",
+   "note": "Zoya · chat Teams · 2024-07-30",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "129cbb0a87",
+   "ru": "неуважение",
+   "tr": "disrespect",
+   "note": "Zoya · chat Teams · 2024-07-30",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "aa2634ef96",
+   "ru": "левый",
+   "tr": "left; (slang) random, dodgy",
+   "note": "Zoya · chat Teams · 2024-07-25",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "3e2f1c89db",
+   "ru": "сажать на кол",
+   "tr": "to impale",
+   "note": "Zoya · chat Teams · 2024-07-25",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "a0f1ca3e52",
+   "ru": "вооружённый переворот",
+   "tr": "armed coup",
+   "note": "Zoya · chat Teams · 2024-07-23",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "ed72fd282f",
+   "ru": "встретить его / встретиться с ним",
+   "tr": "to meet him (pick up) / to meet with him",
+   "note": "Zoya · chat Teams · 2024-07-23",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "e14321bac9",
+   "ru": "миллиардер",
+   "tr": "billionaire",
+   "note": "Zoya · chat Teams · 2024-07-23",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "255079209d",
+   "ru": "Ей повезёт",
+   "tr": "She'll be lucky",
+   "note": "Zoya · chat Teams · 2024-07-22",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "24b3f16fa8",
+   "ru": "я побегу",
+   "tr": "I'll run (once) / я буду бежать = I'll be running",
+   "note": "Zoya · chat Teams · 2024-07-22",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "e0db19035b",
+   "ru": "насладиться солнцем",
+   "tr": "to enjoy the sun",
+   "note": "Zoya · chat Teams · 2024-07-18",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "8d2b8da7f3",
+   "ru": "основать город",
+   "tr": "to found a city",
+   "note": "Zoya · chat Teams · 2024-07-18",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "c8e1fd5116",
+   "ru": "скучать по кому-то",
+   "tr": "to miss someone",
+   "note": "Zoya · chat Teams · 2024-07-18",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "efd2dc2e3e",
+   "ru": "во всех армиях",
+   "tr": "in all armies",
+   "note": "Zoya · chat Teams · 2024-07-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "bf01371eca",
+   "ru": "вести себя плохо",
+   "tr": "to behave badly",
+   "note": "Zoya · chat Teams · 2024-07-16 · он вёл себя плохо",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "ccdc3f0061",
+   "ru": "залезть",
+   "tr": "to climb (into/onto)",
+   "note": "Zoya · chat Teams · 2024-07-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "23447589d0",
+   "ru": "заработная плата",
+   "tr": "wages, salary",
+   "note": "Zoya · chat Teams · 2024-07-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "4618c3685b",
+   "ru": "переглянуться",
+   "tr": "to exchange glances",
+   "note": "Zoya · chat Teams · 2024-07-16 · мы переглянулись",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "e208a15e70",
+   "ru": "на грани",
+   "tr": "on the verge",
+   "note": "Zoya · chat Teams · 2024-07-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "47c87c8b93",
+   "ru": "на сцене",
+   "tr": "on stage",
+   "note": "Zoya · chat Teams · 2024-07-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "65597aa0a1",
+   "ru": "он стал толстым",
+   "tr": "he got fat",
+   "note": "Zoya · chat Teams · 2024-07-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "ec00a4faea",
+   "ru": "перепрыгнуть",
+   "tr": "to jump over",
+   "note": "Zoya · chat Teams · 2024-07-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "cf9c5f4673",
+   "ru": "пожарные",
+   "tr": "firefighters",
+   "note": "Zoya · chat Teams · 2024-07-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "81fef84927",
+   "ru": "получить внимание",
+   "tr": "to get attention",
+   "note": "Zoya · chat Teams · 2024-07-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "e714f80bb7",
+   "ru": "тактичный",
+   "tr": "tactful",
+   "note": "Zoya · chat Teams · 2024-07-16 · такт = tact",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "f0f260fb9a",
+   "ru": "увеличиваться",
+   "tr": "to increase",
+   "note": "Zoya · chat Teams · 2024-07-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "d8579bd5c6",
+   "ru": "утомительно",
+   "tr": "tiring, exhausting",
+   "note": "Zoya · chat Teams · 2024-07-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "4f732f0ae1",
+   "ru": "через пять минут",
+   "tr": "in five minutes",
+   "note": "Zoya · chat Teams · 2024-07-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
    "id": "8089e09c24",
    "ru": "Йоанн интересовался русским языком",
    "tr": "Yoann was interested in the Russian language",
@@ -6235,6 +6892,33 @@
    "note": "Daria · 2024-07-12",
    "tags": [
     "daria-doc"
+   ]
+  },
+  {
+   "id": "9bb7f6f27e",
+   "ru": "остановка автобуса",
+   "tr": "bus stop",
+   "note": "Zoya · chat Teams · 2024-07-09",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "fe25afec01",
+   "ru": "переоценено",
+   "tr": "overrated",
+   "note": "Zoya · chat Teams · 2024-07-09",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "d81a0b2e3a",
+   "ru": "Олимпийские игры",
+   "tr": "Olympic Games",
+   "note": "Zoya · chat Teams · 2024-07-08",
+   "tags": [
+    "zoya-teams-2024"
    ]
   },
   {
