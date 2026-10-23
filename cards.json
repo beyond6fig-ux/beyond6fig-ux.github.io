@@ -1,6 +1,303 @@
 {
  "cards": [
   {
+   "id": "dec863c2ab",
+   "ru": "Уже время",
+   "tr": "It's already time",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "265ccd5307",
+   "ru": "штамп",
+   "tr": "stamp",
+   "note": "Daria · 2026-10-23 · штамп в паспорте",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "d6339891d4",
+   "ru": "бросить резидентство",
+   "tr": "to abandon one's residency",
+   "note": "Daria · 2026-10-23 · correction : pas « сдавал » ; бросил = abandonné",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "c0956c2deb",
+   "ru": "биометрический",
+   "tr": "biometric",
+   "note": "Daria · 2026-10-23 · карта стала биометрической",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "39cf309551",
+   "ru": "иметь в виду",
+   "tr": "to bear in mind",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "8455560759",
+   "ru": "при тебе",
+   "tr": "on you, with you",
+   "note": "Daria · 2026-10-23 · старый паспорт при тебе",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "fd90164a5b",
+   "ru": "секретарь",
+   "tr": "secretary, receptionist",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "aee8cbd5f6",
+   "ru": "шторм",
+   "tr": "storm",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "f4cef3c031",
+   "ru": "сильный ветер",
+   "tr": "strong wind",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "37ad9fdf61",
+   "ru": "треск",
+   "tr": "crack, crackle",
+   "note": "Daria · 2026-10-23 · si tu entends un треск dans la forêt…",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "b4087a6ceb",
+   "ru": "болеть",
+   "tr": "to be ill",
+   "note": "Daria · 2026-10-23 · ты болеешь?",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "1d77e359a1",
+   "ru": "У меня болит голова",
+   "tr": "I have a headache",
+   "note": "Daria · 2026-10-23 · correction : pas « у меня голове больно »",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "1357eec09e",
+   "ru": "лежать на диване",
+   "tr": "to lie on the sofa",
+   "note": "Daria · 2026-10-23 · correction : на диване (prépositionnel)",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "8f5a904696",
+   "ru": "пороть",
+   "tr": "to whip, to flog",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "71f044361e",
+   "ru": "встретить кого-то",
+   "tr": "to meet someone (on arrival)",
+   "note": "Daria · 2026-10-23 · мама встретила меня в аэропорту",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "7afc6657fa",
+   "ru": "грандиозные планы",
+   "tr": "grand plans",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "9898e3fe0d",
+   "ru": "барабаны",
+   "tr": "drums",
+   "note": "Daria · 2026-10-23 · живые барабаны",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "525f967f01",
+   "ru": "мастер-класс",
+   "tr": "masterclass, workshop",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "5191a0b1d8",
+   "ru": "автограф",
+   "tr": "autograph",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "0168df7833",
+   "ru": "реже",
+   "tr": "less often",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "90867e7478",
+   "ru": "заставлять себя",
+   "tr": "to force oneself",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "e33105f769",
+   "ru": "монтаж",
+   "tr": "video editing",
+   "note": "Daria · 2026-10-23 · монтировать",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "539158f3c1",
+   "ru": "шаг за шагом",
+   "tr": "step by step",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "ffc006685c",
+   "ru": "адекватный",
+   "tr": "sensible, normal (person)",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "7586eda322",
+   "ru": "связаться с кем-то",
+   "tr": "to get in touch with someone",
+   "note": "Daria · 2026-10-23 · он обязательно со мной свяжется",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "2a9f29c257",
+   "ru": "вопрос-ответ",
+   "tr": "Q&A",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "cf159eb0a7",
+   "ru": "нарезать видео",
+   "tr": "to cut up a video",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "8515604b46",
+   "ru": "за кадром",
+   "tr": "behind the scenes, off camera",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "1aac9503dc",
+   "ru": "главный герой",
+   "tr": "main character",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "83d5e41dd3",
+   "ru": "сидеть за столом",
+   "tr": "to sit at the table",
+   "note": "Daria · 2026-10-23 · correction : pas « перед столом »",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "9c878b7741",
+   "ru": "обложка",
+   "tr": "cover, thumbnail",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "1b3eb7bf97",
+   "ru": "методика",
+   "tr": "teaching method",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
+   "id": "8431ab90b5",
+   "ru": "пакет из 10 уроков",
+   "tr": "a pack of 10 lessons",
+   "note": "Daria · 2026-10-23",
+   "tags": [
+    "cours-2026-10-23-daria"
+   ]
+  },
+  {
    "id": "58de44cd06",
    "ru": "работать на государство",
    "tr": "to work for the state",
@@ -11215,6 +11512,186 @@
    ]
   },
   {
+   "id": "03249c098c",
+   "ru": "во время прогулки",
+   "tr": "during the walk",
+   "note": "Zoya · chat Teams · 2024-01-18 · ou « в течение прогулки »",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "ea42866130",
+   "ru": "первое впечатление",
+   "tr": "first impression",
+   "note": "Zoya · chat Teams · 2024-01-18",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "6de7e7cf1c",
+   "ru": "подкаст владельца",
+   "tr": "the owner's podcast",
+   "note": "Zoya · chat Teams · 2024-01-18",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "b6dfe8c45e",
+   "ru": "пока я гулял",
+   "tr": "while I was walking",
+   "note": "Zoya · chat Teams · 2024-01-18 · пока + verbe = pendant que",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "a692206fed",
+   "ru": "стулья",
+   "tr": "chairs",
+   "note": "Zoya · chat Teams · 2024-01-18",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "16fc593452",
+   "ru": "Он будит меня",
+   "tr": "He wakes me up",
+   "note": "Zoya · chat Teams · 2024-01-17",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "82af27a95d",
+   "ru": "звёзды",
+   "tr": "stars",
+   "note": "Zoya · chat Teams · 2024-01-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "4a95d36343",
+   "ru": "портреты звёзд",
+   "tr": "portraits of celebrities",
+   "note": "Zoya · chat Teams · 2024-01-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "9931a73fa0",
+   "ru": "солнце",
+   "tr": "sun",
+   "note": "Zoya · chat Teams · 2024-01-16",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "f21919c472",
+   "ru": "мне не хватало",
+   "tr": "I was missing, I lacked",
+   "note": "Zoya · chat Teams · 2024-01-15",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "f4b900d1a3",
+   "ru": "без проблем",
+   "tr": "no problem",
+   "note": "Zoya · chat Teams · 2024-01-11",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "9ddc04dfbe",
+   "ru": "Вы очень близки",
+   "tr": "You are very close",
+   "note": "Zoya · chat Teams · 2024-01-11",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "901b128d4b",
+   "ru": "Я подожду",
+   "tr": "I'll wait",
+   "note": "Zoya · chat Teams · 2024-01-11",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "a312da38cf",
+   "ru": "Я возьму",
+   "tr": "I'll take",
+   "note": "Zoya · chat Teams · 2024-01-11",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "54a29622cb",
+   "ru": "два круассана",
+   "tr": "two croissants",
+   "note": "Zoya · chat Teams · 2024-01-10",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "116293b1a2",
+   "ru": "невоспитанный",
+   "tr": "ill-mannered",
+   "note": "Zoya · chat Teams · 2024-01-10",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "48ee2853e5",
+   "ru": "Прощай(те)",
+   "tr": "Farewell",
+   "note": "Zoya · chat Teams · 2024-01-10",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "4c50b2ec52",
+   "ru": "ответить главному герою",
+   "tr": "to answer the main character",
+   "note": "Zoya · chat Teams · 2024-01-09",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "648abc55e3",
+   "ru": "таким образом",
+   "tr": "thus, in this way",
+   "note": "Zoya · chat Teams · 2024-01-09",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
+   "id": "4974ec044f",
+   "ru": "согласиться",
+   "tr": "to agree",
+   "note": "Zoya · chat Teams · 2024-01-03 · он согласился",
+   "tags": [
+    "zoya-teams-2024"
+   ]
+  },
+  {
    "id": "3486b7c8a9",
    "ru": "Хранить секрет, сохранить секрет",
    "tr": "to keep a secret",
@@ -11284,6 +11761,303 @@
    "note": "Daria · 2023-12-29",
    "tags": [
     "daria-doc"
+   ]
+  },
+  {
+   "id": "5ceecaa5a9",
+   "ru": "лиса",
+   "tr": "fox",
+   "note": "Zoya · chat Teams · 2023-12-28 · accusatif : лису",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "1b9b8ef739",
+   "ru": "Я в предвкушении",
+   "tr": "I'm looking forward to it",
+   "note": "Zoya · chat Teams · 2023-12-28",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "d4f87bd19a",
+   "ru": "вырывать деревья",
+   "tr": "to uproot trees",
+   "note": "Zoya · chat Teams · 2023-12-27",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "b43fa6a177",
+   "ru": "новые приключения",
+   "tr": "new adventures",
+   "note": "Zoya · chat Teams · 2023-12-27",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "cb3fe478dc",
+   "ru": "приют",
+   "tr": "shelter",
+   "note": "Zoya · chat Teams · 2023-12-27",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "e0971a6821",
+   "ru": "расслабить плечи",
+   "tr": "to relax one's shoulders",
+   "note": "Zoya · chat Teams · 2023-12-27",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "8a4d1e2188",
+   "ru": "слоны",
+   "tr": "elephants",
+   "note": "Zoya · chat Teams · 2023-12-27 · génitif : слонов",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "ae7032e075",
+   "ru": "справедливое наказание",
+   "tr": "fair punishment",
+   "note": "Zoya · chat Teams · 2023-12-27",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "ecac13895f",
+   "ru": "эгоистичный",
+   "tr": "selfish",
+   "note": "Zoya · chat Teams · 2023-12-27",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "401836cb16",
+   "ru": "Это не помогло",
+   "tr": "It didn't help",
+   "note": "Zoya · chat Teams · 2023-12-27",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "799b735425",
+   "ru": "Я пытался освободиться",
+   "tr": "I tried to break free",
+   "note": "Zoya · chat Teams · 2023-12-27",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "95f975f28d",
+   "ru": "Ты уже наелась?",
+   "tr": "Have you eaten your fill? (to a woman)",
+   "note": "Zoya · chat Teams · 2023-12-26",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "cdacc69b6e",
+   "ru": "в гостиной",
+   "tr": "in the living room",
+   "note": "Zoya · chat Teams · 2023-12-21",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "5cd9f9c3d5",
+   "ru": "землевладельцы",
+   "tr": "landowners",
+   "note": "Zoya · chat Teams · 2023-12-21",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "3499f5ca2b",
+   "ru": "известная фамилия",
+   "tr": "a famous surname",
+   "note": "Zoya · chat Teams · 2023-12-21",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "22c3ffb578",
+   "ru": "крестьяне",
+   "tr": "peasants",
+   "note": "Zoya · chat Teams · 2023-12-21",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "90e85a2876",
+   "ru": "со вкусом",
+   "tr": "tastefully",
+   "note": "Zoya · chat Teams · 2023-12-21",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "285c0c3f7a",
+   "ru": "держать за руку",
+   "tr": "to hold hands",
+   "note": "Zoya · chat Teams · 2023-12-20",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "2469136729",
+   "ru": "есть как свинья",
+   "tr": "to eat like a pig",
+   "note": "Zoya · chat Teams · 2023-12-20",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "f99ac41a79",
+   "ru": "замёрзшее озеро",
+   "tr": "frozen lake",
+   "note": "Zoya · chat Teams · 2023-12-20",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "07ffd48e7e",
+   "ru": "защита",
+   "tr": "protection, defence",
+   "note": "Zoya · chat Teams · 2023-12-20",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "268b2b4926",
+   "ru": "как я представляю",
+   "tr": "as I imagine it",
+   "note": "Zoya · chat Teams · 2023-12-20",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "5dae9da218",
+   "ru": "спортивное оборудование",
+   "tr": "sports equipment",
+   "note": "Zoya · chat Teams · 2023-12-20",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "af85b51dbc",
+   "ru": "спортивные товары",
+   "tr": "sporting goods",
+   "note": "Zoya · chat Teams · 2023-12-20",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "d1e89b83a7",
+   "ru": "схватить",
+   "tr": "to grab",
+   "note": "Zoya · chat Teams · 2023-12-20",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "4682f097be",
+   "ru": "нетрадиционный путь",
+   "tr": "an unconventional path",
+   "note": "Zoya · chat Teams · 2023-12-20",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "ada2d7458c",
+   "ru": "экзистенциальный кризис",
+   "tr": "existential crisis",
+   "note": "Zoya · chat Teams · 2023-12-20",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "8f57cc91af",
+   "ru": "эссе",
+   "tr": "essay",
+   "note": "Zoya · chat Teams · 2023-12-20",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "abd5a6f815",
+   "ru": "быть осторожным",
+   "tr": "to be careful",
+   "note": "Zoya · chat Teams · 2023-12-19",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "5fe225deb7",
+   "ru": "два больших кресла",
+   "tr": "two big armchairs",
+   "note": "Zoya · chat Teams · 2023-12-19",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "d855774681",
+   "ru": "Дело сделано",
+   "tr": "It's done",
+   "note": "Zoya · chat Teams · 2023-12-19",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "46eccc95fb",
+   "ru": "для деловых разговоров",
+   "tr": "for business talks",
+   "note": "Zoya · chat Teams · 2023-12-19",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "ffcd185b8c",
+   "ru": "для лучшего запоминания",
+   "tr": "for better memorisation",
+   "note": "Zoya · chat Teams · 2023-12-19",
+   "tags": [
+    "zoya-teams-2023"
    ]
   },
   {
