@@ -1,6 +1,348 @@
 {
  "cards": [
   {
+   "id": "452d421d9f",
+   "ru": "Это лучше, чем ничего",
+   "tr": "It's better than nothing",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "cb412c5852",
+   "ru": "соскучиться по людям",
+   "tr": "to miss people",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "db3224654a",
+   "ru": "заигрывать",
+   "tr": "to flirt (playfully)",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "5be6cea8e4",
+   "ru": "помахать рукой",
+   "tr": "to wave",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "5317218f63",
+   "ru": "подумать об этом",
+   "tr": "to think about it",
+   "note": "Zoya · 2026-11-04 · correction : pas « продумать »",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "d5aa606814",
+   "ru": "навыки коммуникации",
+   "tr": "communication skills",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "59865e1ae5",
+   "ru": "развиваться",
+   "tr": "to develop",
+   "note": "Zoya · 2026-11-04 · чтобы мозг развивался",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "459e5749b7",
+   "ru": "прилагать усилия к чему-то",
+   "tr": "to put effort into something",
+   "note": "Zoya · 2026-11-04 · correction : pas « удвоить » dans ce contexte",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "7f05ef67fd",
+   "ru": "удвоить ставку",
+   "tr": "to double the stake",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "a6cb558457",
+   "ru": "отменять занятия",
+   "tr": "to cancel lessons",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "41df307910",
+   "ru": "местоимения",
+   "tr": "pronouns",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "a616b04005",
+   "ru": "во множественном числе",
+   "tr": "in the plural",
+   "note": "Zoya · 2026-11-04 · ≠ в единственном числе",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "dc9623cc04",
+   "ru": "Ты не сдала экзамен",
+   "tr": "You failed the exam",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "7809d0556c",
+   "ru": "одностороннее движение",
+   "tr": "one-way traffic",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "912d69d7b1",
+   "ru": "перекрёсток",
+   "tr": "crossroads",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "bbf27179ea",
+   "ru": "сплошная линия",
+   "tr": "solid line",
+   "note": "Zoya · 2026-11-04 · ≠ прерывистая",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "0eab720431",
+   "ru": "образ мышления",
+   "tr": "mindset, way of thinking",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "0103fcb933",
+   "ru": "Смотри на меня",
+   "tr": "Watch me",
+   "note": "Zoya · 2026-11-04 · correction : pas « смотри меня »",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "b0492f122a",
+   "ru": "на родине",
+   "tr": "back home",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "7e605ef19d",
+   "ru": "студенческий кредит",
+   "tr": "student loan",
+   "note": "Zoya · 2026-11-04 · correction : pas « студентский долг »",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "c051cfc38e",
+   "ru": "освободиться",
+   "tr": "to become free",
+   "note": "Zoya · 2026-11-04 · если освободится время",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "52c81ec7c9",
+   "ru": "договориться с кем-то",
+   "tr": "to arrange with someone",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "a995929758",
+   "ru": "прилететь",
+   "tr": "to arrive (by plane)",
+   "note": "Zoya · 2026-11-04 · correction : кузен прилетит (pas « улетит »)",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "330916179d",
+   "ru": "Я приеду в аэропорт",
+   "tr": "I'll come to the airport",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "302b2686fb",
+   "ru": "другая среда",
+   "tr": "a different environment",
+   "note": "Zoya · 2026-11-04 · среда = aussi « mercredi »",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "014e51b27f",
+   "ru": "сводить кого-то в ресторан",
+   "tr": "to take someone out to a restaurant",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "fa57740641",
+   "ru": "почти на день рождения",
+   "tr": "almost for the birthday",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "228b26a347",
+   "ru": "десятого ноября",
+   "tr": "on 10 November",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "86675d3b6c",
+   "ru": "быть в форме",
+   "tr": "to be in shape",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "8ed1990f82",
+   "ru": "кубики на животе",
+   "tr": "six-pack (abs)",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "7944c9a475",
+   "ru": "потенциал",
+   "tr": "potential",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "311679ac52",
+   "ru": "поднимать вес",
+   "tr": "to lift weights",
+   "note": "Zoya · 2026-11-04 · выжимать железо = pump iron",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "e3b2ae9c58",
+   "ru": "с большей интенсивностью",
+   "tr": "with greater intensity",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "307fd8bce5",
+   "ru": "подтолкнуть к смене работы",
+   "tr": "to nudge towards changing jobs",
+   "note": "Zoya · 2026-11-04 · correction : pas « оттолкнуть »",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "c31a69a662",
+   "ru": "несчастен",
+   "tr": "unhappy",
+   "note": "Zoya · 2026-11-04 · он несчастен на работе",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "9f67414c64",
+   "ru": "на бумаге",
+   "tr": "on paper",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "7e571ecefa",
+   "ru": "неудобное занятие",
+   "tr": "an inconvenient lesson slot",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
+   "id": "68c7e5d14e",
+   "ru": "с понедельника по четверг",
+   "tr": "from Monday to Thursday",
+   "note": "Zoya · 2026-11-04",
+   "tags": [
+    "cours-2026-11-04-zoya"
+   ]
+  },
+  {
    "id": "575698b145",
    "ru": "массажистка",
    "tr": "massage therapist (f.)",
@@ -23000,6 +23342,600 @@
    "ru": "в семейном доме",
    "tr": "in the family home",
    "note": "Zoya · chat Teams · 2023-06-14",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "2529ebceb1",
+   "ru": "в этом году",
+   "tr": "this year",
+   "note": "Zoya · chat Teams · 2023-06-14",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "079f38beb1",
+   "ru": "детский велосипед",
+   "tr": "children's bike",
+   "note": "Zoya · chat Teams · 2023-06-14",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "e1a041366d",
+   "ru": "для будущего",
+   "tr": "for the future",
+   "note": "Zoya · chat Teams · 2023-06-14",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "873a65c64d",
+   "ru": "достаточно денег",
+   "tr": "enough money",
+   "note": "Zoya · chat Teams · 2023-06-14",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "99f6b14950",
+   "ru": "издалека",
+   "tr": "from afar",
+   "note": "Zoya · chat Teams · 2023-06-14",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "61ffba6fb7",
+   "ru": "машина моей мечты",
+   "tr": "my dream car",
+   "note": "Zoya · chat Teams · 2023-06-14",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "7657968cf6",
+   "ru": "Она счастливица",
+   "tr": "She's a lucky one",
+   "note": "Zoya · chat Teams · 2023-06-14 · ≠ счастливая (happy)",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "f08b9e3245",
+   "ru": "расширить бизнес",
+   "tr": "to expand the business",
+   "note": "Zoya · chat Teams · 2023-06-14",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "2e08c2e675",
+   "ru": "чтобы стать лучше",
+   "tr": "to become better",
+   "note": "Zoya · chat Teams · 2023-06-14",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "1b1695efe2",
+   "ru": "внезапно",
+   "tr": "suddenly",
+   "note": "Zoya · chat Teams · 2023-06-12",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "076b5c661c",
+   "ru": "этой ночью",
+   "tr": "tonight, last night",
+   "note": "Zoya · chat Teams · 2023-06-12",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "5a900bb768",
+   "ru": "больной",
+   "tr": "patient; sick person",
+   "note": "Zoya · chat Teams · 2023-06-12 · = пациент",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "7d3df4d24f",
+   "ru": "брать / взять",
+   "tr": "to take",
+   "note": "Zoya · chat Teams · 2023-06-12",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "c93068fbec",
+   "ru": "кончать / кончить",
+   "tr": "to finish (colloquial)",
+   "note": "Zoya · chat Teams · 2023-06-12",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "7871921d27",
+   "ru": "мечта",
+   "tr": "dream",
+   "note": "Zoya · chat Teams · 2023-06-12",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "07c7644a74",
+   "ru": "сесть в такси",
+   "tr": "to get into a taxi",
+   "note": "Zoya · chat Teams · 2023-06-12 · села",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "02de46601d",
+   "ru": "со мной",
+   "tr": "with me",
+   "note": "Zoya · chat Teams · 2023-06-12",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "3315ece0db",
+   "ru": "Лучшее — враг хорошего",
+   "tr": "The best is the enemy of the good",
+   "note": "Zoya · chat Teams · 2023-06-07 · correction : хорошего (génitif)",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "bdf697a91c",
+   "ru": "стать пугающим",
+   "tr": "to become frightening",
+   "note": "Zoya · chat Teams · 2023-06-07",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "77a499b59e",
+   "ru": "Это звучит…",
+   "tr": "It sounds…",
+   "note": "Zoya · chat Teams · 2023-06-07",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "8037c8f5dc",
+   "ru": "лезгинка",
+   "tr": "lezginka (Caucasian dance)",
+   "note": "Zoya · chat Teams · 2023-06-05",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "a55165bc0c",
+   "ru": "старомодный",
+   "tr": "old-fashioned",
+   "note": "Zoya · chat Teams · 2023-06-05",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "67b057b82d",
+   "ru": "во время свадьбы",
+   "tr": "during the wedding",
+   "note": "Zoya · chat Teams · 2023-06-05",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "73f6ea37ad",
+   "ru": "встречаться / встретиться",
+   "tr": "to meet",
+   "note": "Zoya · chat Teams · 2023-06-05",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "c75df48f8d",
+   "ru": "найти девушку",
+   "tr": "to find a girlfriend",
+   "note": "Zoya · chat Teams · 2023-06-05",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "c31997e426",
+   "ru": "пехота",
+   "tr": "infantry",
+   "note": "Zoya · chat Teams · 2023-06-05",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "c98503262e",
+   "ru": "специальность",
+   "tr": "speciality, major",
+   "note": "Zoya · chat Teams · 2023-06-05",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "7306054570",
+   "ru": "в конце июня",
+   "tr": "at the end of June",
+   "note": "Zoya · chat Teams · 2023-06-01",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "31f3e9b4a2",
+   "ru": "кроме",
+   "tr": "except",
+   "note": "Zoya · chat Teams · 2023-06-01",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "9f1007bbc9",
+   "ru": "недостаточно",
+   "tr": "not enough",
+   "note": "Zoya · chat Teams · 2023-06-01",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "69566fb88e",
+   "ru": "Покойся с миром",
+   "tr": "Rest in peace",
+   "note": "Zoya · chat Teams · 2023-06-01",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "97019e7894",
+   "ru": "в конце речи",
+   "tr": "at the end of the speech",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "01126f8ad6",
+   "ru": "с Альп",
+   "tr": "from the Alps",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "39d0bb7a72",
+   "ru": "Это напомнило мне…",
+   "tr": "It reminded me of…",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "027310f0ea",
+   "ru": "везучий",
+   "tr": "lucky",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "0f037d67ec",
+   "ru": "взлететь",
+   "tr": "to take off",
+   "note": "Zoya · chat Teams · 2023-05-30 · взлетел",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "e7fab26fc8",
+   "ru": "высокий уровень",
+   "tr": "high level",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "1f8773e093",
+   "ru": "годы спустя",
+   "tr": "years later",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "4992d4d692",
+   "ru": "дизайнер интерьеров",
+   "tr": "interior designer",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "77941b5d2f",
+   "ru": "прибыть",
+   "tr": "to arrive (formal)",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "2d3b2ef351",
+   "ru": "приехать",
+   "tr": "to arrive (by transport)",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "f39070a80e",
+   "ru": "прийти",
+   "tr": "to arrive (on foot)",
+   "note": "Zoya · chat Teams · 2023-05-30 · пришёл",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "90f33e9036",
+   "ru": "снять видео",
+   "tr": "to shoot a video",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "0d22b6e0fe",
+   "ru": "счётчик Гейгера",
+   "tr": "Geiger counter",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "8afd0a7bcb",
+   "ru": "поменять чаши",
+   "tr": "to swap the cups",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "3a14fdefbb",
+   "ru": "Это опасно",
+   "tr": "It's dangerous",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "b00eaba166",
+   "ru": "ядерное облако",
+   "tr": "nuclear cloud",
+   "note": "Zoya · chat Teams · 2023-05-30",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "f56119b0a5",
+   "ru": "Здесь есть волны",
+   "tr": "There are waves here",
+   "note": "Zoya · chat Teams · 2023-05-29",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "ee775acbd9",
+   "ru": "на разные темы",
+   "tr": "on different topics",
+   "note": "Zoya · chat Teams · 2023-05-29 · correction : pas « о разных темах »",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "d74b6fa04e",
+   "ru": "Точно",
+   "tr": "Exactly",
+   "note": "Zoya · chat Teams · 2023-05-29",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "0dc2b484ab",
+   "ru": "быть загорелым",
+   "tr": "to be tanned",
+   "note": "Zoya · chat Teams · 2023-05-29",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "96b459efb8",
+   "ru": "десять тысяч шагов",
+   "tr": "ten thousand steps",
+   "note": "Zoya · chat Teams · 2023-05-29",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "5b13fcacda",
+   "ru": "инвестировать",
+   "tr": "to invest",
+   "note": "Zoya · chat Teams · 2023-05-29 · инвестиция",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "a5722206a8",
+   "ru": "шаг",
+   "tr": "step",
+   "note": "Zoya · chat Teams · 2023-05-29",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "f473f38d82",
+   "ru": "во время вечеринки",
+   "tr": "during the party",
+   "note": "Zoya · chat Teams · 2023-05-23",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "c0d80d1dd3",
+   "ru": "день рождения",
+   "tr": "birthday",
+   "note": "Zoya · chat Teams · 2023-05-23",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "77161ca869",
+   "ru": "чтобы впечатлить",
+   "tr": "to impress",
+   "note": "Zoya · chat Teams · 2023-05-23",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "a3f9201384",
+   "ru": "базовая одежда",
+   "tr": "basic clothes",
+   "note": "Zoya · chat Teams · 2023-05-23",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "d0dcafc739",
+   "ru": "в Черногории",
+   "tr": "in Montenegro",
+   "note": "Zoya · chat Teams · 2023-05-23",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "0e9cfd0ad3",
+   "ru": "в памяти",
+   "tr": "in memory",
+   "note": "Zoya · chat Teams · 2023-05-23",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "e38143d4e9",
+   "ru": "во время полёта",
+   "tr": "during the flight",
+   "note": "Zoya · chat Teams · 2023-05-23",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "9e8a76a9aa",
+   "ru": "газированная вода",
+   "tr": "sparkling water",
+   "note": "Zoya · chat Teams · 2023-05-23 · = вода с газом",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "f8bc18607e",
+   "ru": "использовать мой телефон",
+   "tr": "to use my phone",
+   "note": "Zoya · chat Teams · 2023-05-23",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "3674a7bee5",
+   "ru": "опыт",
+   "tr": "experience",
+   "note": "Zoya · chat Teams · 2023-05-23",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "f9ba3b456a",
+   "ru": "средний уровень",
+   "tr": "intermediate level",
+   "note": "Zoya · chat Teams · 2023-05-23",
+   "tags": [
+    "zoya-teams-2023"
+   ]
+  },
+  {
+   "id": "ededea2c79",
+   "ru": "удивить",
+   "tr": "to surprise",
+   "note": "Zoya · chat Teams · 2023-05-23",
    "tags": [
     "zoya-teams-2023"
    ]
