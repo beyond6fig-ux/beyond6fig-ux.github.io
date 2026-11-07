@@ -1,6 +1,357 @@
 {
  "cards": [
   {
+   "id": "d4b96fe687",
+   "ru": "верификация",
+   "tr": "verification",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "ec0134a034",
+   "ru": "доступ",
+   "tr": "access",
+   "note": "Daria · 2026-11-07 · у меня нет доступа",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "b06e8ebbda",
+   "ru": "вставить",
+   "tr": "to insert",
+   "note": "Daria · 2026-11-07 · correction : вставить (pas « ставить »)",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "548c1fa5ee",
+   "ru": "сжать / надавить",
+   "tr": "to press, to compress",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "f337e384c3",
+   "ru": "Я отвезу его в аэропорт",
+   "tr": "I'll drive him to the airport",
+   "note": "Daria · 2026-11-07 · correction : pas « перевозил » ni « водил »",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "f2d0b25cac",
+   "ru": "водить",
+   "tr": "to lead (on foot)",
+   "note": "Daria · 2026-11-07 · водить = toujours à pied ; везти = en transport",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "9928681f35",
+   "ru": "Он встретился с Майклом",
+   "tr": "He met Michael",
+   "note": "Daria · 2026-11-07 · correction : pas « встретиться »",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "38b87927a7",
+   "ru": "конверсия",
+   "tr": "conversion rate",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "30754e26d6",
+   "ru": "карусель",
+   "tr": "carousel (post)",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "7292caf278",
+   "ru": "не выспаться",
+   "tr": "not to get enough sleep",
+   "note": "Daria · 2026-11-07 · я вообще не выспалась",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "f2b81e2615",
+   "ru": "уснуть",
+   "tr": "to fall asleep",
+   "note": "Daria · 2026-11-07 · в полчетвёртого я уснула",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "cab0869192",
+   "ru": "в полчетвёртого",
+   "tr": "at half past three",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "13478c344a",
+   "ru": "период чтения",
+   "tr": "reading phase",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "a8f79dc1c0",
+   "ru": "Я давно не читал",
+   "tr": "I haven't read in a long time",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "6c3bdb3ce4",
+   "ru": "пюпитр",
+   "tr": "music stand",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "386ef1e6d4",
+   "ru": "бемоль и диез",
+   "tr": "flat and sharp",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "8540609b06",
+   "ru": "распознавание",
+   "tr": "recognition",
+   "note": "Daria · 2026-11-07 · распознавание шаблонов",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "c5c891259d",
+   "ru": "гаммы",
+   "tr": "scales (music)",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "392377c49b",
+   "ru": "пьеса",
+   "tr": "piece (music); play",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "611d806bde",
+   "ru": "три четверти",
+   "tr": "three-four time",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "64e209f7df",
+   "ru": "скрипичный ключ",
+   "tr": "treble clef",
+   "note": "Daria · 2026-11-07 · басовый ключ = bass clef",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "d59e8fbeea",
+   "ru": "не синхронно",
+   "tr": "out of sync",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "326bac42ac",
+   "ru": "привыкнуть к этому",
+   "tr": "to get used to it",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "e3f17944b9",
+   "ru": "ограничивающие убеждения",
+   "tr": "limiting beliefs",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "2ac4e129a0",
+   "ru": "повторения",
+   "tr": "repetitions",
+   "note": "Daria · 2026-11-07 · тысячи повторений",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "f1d02e5524",
+   "ru": "рояль",
+   "tr": "grand piano",
+   "note": "Daria · 2026-11-07 · ≠ пианино (upright)",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "483becfe6b",
+   "ru": "филармония",
+   "tr": "concert hall, philharmonic",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "50916ada8b",
+   "ru": "Не завидую тебе",
+   "tr": "I don't envy you",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "3de2c1455d",
+   "ru": "Ты бы сдался",
+   "tr": "You would have given up",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "3c1723e997",
+   "ru": "догнать",
+   "tr": "to catch up with",
+   "note": "Daria · 2026-11-07 · догнать всех остальных",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "8c601e9623",
+   "ru": "соревновательный дух",
+   "tr": "competitive spirit",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "9e523827e6",
+   "ru": "жёсткий вайб",
+   "tr": "a tough vibe",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "8a8072c4a5",
+   "ru": "найти решение",
+   "tr": "to find a solution",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "7ebcee41a9",
+   "ru": "на мате",
+   "tr": "on the mat",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "dd4995bc64",
+   "ru": "начинающие",
+   "tr": "beginners",
+   "note": "Daria · 2026-11-07 · ≠ начальники (bosses)",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "b670e4986c",
+   "ru": "Вставай!",
+   "tr": "Get up!",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "1d80fe328d",
+   "ru": "летающее колено",
+   "tr": "flying knee",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "f0e888d1bb",
+   "ru": "Ты улучшился",
+   "tr": "You've improved",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
+   "id": "16fc3fd4db",
+   "ru": "Это окупилось",
+   "tr": "It paid off",
+   "note": "Daria · 2026-11-07",
+   "tags": [
+    "cours-2026-11-07-daria"
+   ]
+  },
+  {
    "id": "452d421d9f",
    "ru": "Это лучше, чем ничего",
    "tr": "It's better than nothing",
