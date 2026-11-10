@@ -1,6 +1,501 @@
 {
  "cards": [
   {
+   "id": "73c8e5a474",
+   "ru": "Мой мозг сгорел",
+   "tr": "My brain was fried",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "134ba20f7e",
+   "ru": "чем в первый раз",
+   "tr": "than the first time",
+   "note": "Zoya · 2026-11-10 · correction : pas « чем первого раза »",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "af695e03fe",
+   "ru": "отпустить руку",
+   "tr": "to let go of the hand",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "e1d53651b3",
+   "ru": "напряжён",
+   "tr": "tense",
+   "note": "Zoya · 2026-11-10 · ≠ расслаблен",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "57e27e9983",
+   "ru": "тоннельный синдром",
+   "tr": "carpal tunnel syndrome",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "f630aaa21e",
+   "ru": "зажимать нерв",
+   "tr": "to pinch a nerve",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "4ddcd20c96",
+   "ru": "тренажёр для запястья",
+   "tr": "wrist trainer",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "9674bea61d",
+   "ru": "крутить",
+   "tr": "to spin, to twist",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "a2d30641ed",
+   "ru": "как будто я вернулся в прошлое",
+   "tr": "as if I'd gone back in time",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "499cbb8045",
+   "ru": "платить за урок",
+   "tr": "to pay for the lesson",
+   "note": "Zoya · 2026-11-10 · correction : за урок (pas « платить урок »)",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "25bf99afbd",
+   "ru": "лежачий полицейский",
+   "tr": "speed bump",
+   "note": "Zoya · 2026-11-10 · litt. « policier couché »",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "7e5be36a83",
+   "ru": "общаться друг с другом",
+   "tr": "to talk to each other",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "235cbb56cb",
+   "ru": "на этой неделе",
+   "tr": "this week",
+   "note": "Zoya · 2026-11-10 · correction : pas « эту неделю »",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "99812bc2c4",
+   "ru": "опускать руку",
+   "tr": "to lower one's hand",
+   "note": "Zoya · 2026-11-10 · опуститься = to go down",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "f8c1878707",
+   "ru": "клюв",
+   "tr": "beak",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "a968d01e92",
+   "ru": "на клавишах",
+   "tr": "on the keys",
+   "note": "Zoya · 2026-11-10 · correction : pas « на клавиатуре »",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "884e91e389",
+   "ru": "сухо",
+   "tr": "dry",
+   "note": "Zoya · 2026-11-10 · в доме очень сухо",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "fc1f1ae44e",
+   "ru": "увлажнитель воздуха",
+   "tr": "humidifier",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "61e317560b",
+   "ru": "пар",
+   "tr": "steam",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "fd32c9e6b5",
+   "ru": "спросить мужа",
+   "tr": "to ask one's husband",
+   "note": "Zoya · 2026-11-10 · спросить/просить + accusatif ; сказать/ответить + datif",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "e3546a2723",
+   "ru": "привыкнуть к стрессу",
+   "tr": "to get used to stress",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "21808ae91a",
+   "ru": "тянуть за волосы",
+   "tr": "to pull someone's hair",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "1c28e601d2",
+   "ru": "низшие слои",
+   "tr": "the lowest strata",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "4591d58987",
+   "ru": "люди среднего достатка",
+   "tr": "people of average means",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "f992407314",
+   "ru": "обеспеченные люди",
+   "tr": "well-off people",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "5968750b19",
+   "ru": "малоимущие",
+   "tr": "low-income people",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "b4a1cf9db7",
+   "ru": "середняки",
+   "tr": "middle-of-the-road people (colloquial)",
+   "note": "Zoya · 2026-11-10 · registre familier",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "e1662fc463",
+   "ru": "разговорная речь",
+   "tr": "colloquial speech",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "02d2fd236a",
+   "ru": "богачи",
+   "tr": "the rich (colloquial)",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "fa1bf1718e",
+   "ru": "бедняки",
+   "tr": "the poor (colloquial)",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "0ab9649d48",
+   "ru": "скромный доход",
+   "tr": "modest income",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "30c11f24a2",
+   "ru": "приличный доход",
+   "tr": "decent income",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "7045ede164",
+   "ru": "состоятельные люди",
+   "tr": "wealthy people",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "a48e27e329",
+   "ru": "новые русские",
+   "tr": "the \"new Russians\" (90s nouveaux riches)",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "4fa3597c1d",
+   "ru": "нувориш",
+   "tr": "nouveau riche",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "2fa8f7b153",
+   "ru": "жить за чертой бедности",
+   "tr": "to live below the poverty line",
+   "note": "Zoya · 2026-11-10 · черта = line",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "fd603e7be2",
+   "ru": "считается хорошим тоном",
+   "tr": "it's considered good form",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "5fe4503d92",
+   "ru": "превышать",
+   "tr": "to exceed",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "7691e3bf6a",
+   "ru": "стремиться приобрести",
+   "tr": "to strive to acquire",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "b264c15d17",
+   "ru": "недвижимость за рубежом",
+   "tr": "property abroad",
+   "note": "Zoya · 2026-11-10 · за рубежом = за границей",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "71f98c9624",
+   "ru": "подавляющее большинство",
+   "tr": "the overwhelming majority",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "e7727bcf37",
+   "ru": "налоговая декларация",
+   "tr": "tax return",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "928ea0e0f9",
+   "ru": "задача правительства",
+   "tr": "the government's task",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "f05e6168a8",
+   "ru": "поднять пенсионный возраст",
+   "tr": "to raise the retirement age",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "906a80fcf9",
+   "ru": "полезные ископаемые",
+   "tr": "mineral resources",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "94873f1530",
+   "ru": "национализировать",
+   "tr": "to nationalise",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "b6bf1ec813",
+   "ru": "нефтяная скважина",
+   "tr": "oil well",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "da531aed2f",
+   "ru": "акции",
+   "tr": "shares, stocks",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "580c15a221",
+   "ru": "развивать промышленность",
+   "tr": "to develop industry",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "1f6b99db71",
+   "ru": "капиталистическая система",
+   "tr": "capitalist system",
+   "note": "Zoya · 2026-11-10 · correction : pas « капитализация »",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "56e93c2a89",
+   "ru": "гораздо больше",
+   "tr": "much more",
+   "note": "Zoya · 2026-11-10 · = намного больше",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "9ffe22ae77",
+   "ru": "вкладывать деньги",
+   "tr": "to invest money",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "ce4a2d036c",
+   "ru": "Экономика рушится",
+   "tr": "The economy is falling apart",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "3323748f76",
+   "ru": "откладывать деньги",
+   "tr": "to set money aside",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
+   "id": "862c3391d2",
+   "ru": "анекдот",
+   "tr": "joke (short funny story)",
+   "note": "Zoya · 2026-11-10",
+   "tags": [
+    "cours-2026-11-10-zoya"
+   ]
+  },
+  {
    "id": "32c51f5594",
    "ru": "теракт",
    "tr": "terrorist attack",
