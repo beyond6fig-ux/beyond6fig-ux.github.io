@@ -1,6 +1,438 @@
 {
  "cards": [
   {
+   "id": "0b3b472250",
+   "ru": "кишечная инфекция",
+   "tr": "stomach bug",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "92be886aa8",
+   "ru": "Его рвало",
+   "tr": "He was vomiting",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "eb366fa6e4",
+   "ru": "ночная аптека",
+   "tr": "all-night pharmacy",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "2a78464438",
+   "ru": "прописать лекарства",
+   "tr": "to prescribe medicine",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "9a7bdd13f1",
+   "ru": "лечь в больницу",
+   "tr": "to be admitted to hospital",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "06a1f7ed63",
+   "ru": "спать на рабочем месте",
+   "tr": "to sleep on the job",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "3bbf04ff40",
+   "ru": "маленькими порциями",
+   "tr": "in small portions",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "9759826ff4",
+   "ru": "Он напился",
+   "tr": "He drank his fill",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "eb8821db19",
+   "ru": "Это того стоило",
+   "tr": "It was worth it",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "fb864158a5",
+   "ru": "Чем вы болели?",
+   "tr": "What were you ill with?",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "cc056c0fd1",
+   "ru": "Жизнь будет интересной",
+   "tr": "Life will be interesting",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "d3a4abafdc",
+   "ru": "ветклиника",
+   "tr": "vet clinic",
+   "note": "Zoya · 2026-11-12 · ветеринарная клиника",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "2abbd16141",
+   "ru": "гематома",
+   "tr": "haematoma",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "3755f74e4c",
+   "ru": "Ему очень больно",
+   "tr": "It hurts him a lot",
+   "note": "Zoya · 2026-11-12 · datif",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "2d644b61bb",
+   "ru": "между жизнью и смертью",
+   "tr": "between life and death",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "3f87c94b02",
+   "ru": "в миллион раз умнее",
+   "tr": "a million times smarter",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "230de26005",
+   "ru": "вылечить рак",
+   "tr": "to cure cancer",
+   "note": "Zoya · 2026-11-12 · ≠ найти рак (to find)",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "c3d01d0e10",
+   "ru": "по экспоненте",
+   "tr": "exponentially",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "c04889b0f6",
+   "ru": "жить бесконечно",
+   "tr": "to live forever",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "bb6ec8d7bd",
+   "ru": "учить китайский язык",
+   "tr": "to learn Chinese",
+   "note": "Zoya · 2026-11-12 · correction : pas « учиться по-китайски »",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "e3b9aea4e0",
+   "ru": "подписать контракт",
+   "tr": "to sign a contract",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "3d5a3e393b",
+   "ru": "Она пойдёт в тюрьму",
+   "tr": "She'll go to prison",
+   "note": "Zoya · 2026-11-12 · correction : pas « она идёт в тюрьму »",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "1c28295551",
+   "ru": "хороший обмен",
+   "tr": "a good trade-off",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "3ca2317317",
+   "ru": "говорить сам с собой",
+   "tr": "to talk to oneself",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "bcab69dd35",
+   "ru": "Даже под пытками она не заговорит",
+   "tr": "She wouldn't talk even under torture",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "23c4298940",
+   "ru": "Мы были только вдвоём",
+   "tr": "It was just the two of us",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "e44a0a24b9",
+   "ru": "Я отвезу тебя домой",
+   "tr": "I'll drive you home",
+   "note": "Zoya · 2026-11-12 · отведу = à pied",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "023fbb8965",
+   "ru": "говяжий тартар",
+   "tr": "beef tartare",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "690bccc0cf",
+   "ru": "Я теряю мысль",
+   "tr": "I'm losing my train of thought",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "b94bcc4d08",
+   "ru": "Что-то случилось",
+   "tr": "Something happened",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "a3ca716d14",
+   "ru": "после знакомства",
+   "tr": "after meeting",
+   "note": "Zoya · 2026-11-12 · = после того как мы познакомились",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "69bfabfb8b",
+   "ru": "шире",
+   "tr": "wider, broader",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "74fdd5ffcd",
+   "ru": "ирландские танцы",
+   "tr": "Irish dancing",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "aa1f076113",
+   "ru": "жареный рис",
+   "tr": "fried rice",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "56655691fd",
+   "ru": "с говядиной",
+   "tr": "with beef",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "29f83a467a",
+   "ru": "Шёл сильный дождь",
+   "tr": "It was pouring",
+   "note": "Zoya · 2026-11-12 · дождь est masculin",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "7a0984a40c",
+   "ru": "трудно предугадать",
+   "tr": "hard to predict",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "33f4bcabe3",
+   "ru": "получить удар по лицу",
+   "tr": "to get punched in the face",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "8621c0df96",
+   "ru": "бойцовский клуб",
+   "tr": "fight club",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "bc7abf000c",
+   "ru": "тестовая тренировка",
+   "tr": "trial session",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "66d0a55c3d",
+   "ru": "педагогично",
+   "tr": "pedagogical",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "1c17f48724",
+   "ru": "иномарка",
+   "tr": "foreign car",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "ed45f66279",
+   "ru": "угнать машину",
+   "tr": "to steal a car",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "6eb41a472f",
+   "ru": "шофёр",
+   "tr": "chauffeur",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "7ee613f176",
+   "ru": "афоризм",
+   "tr": "aphorism",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "60efb2eaf2",
+   "ru": "Все счастливые семьи похожи друг на друга",
+   "tr": "All happy families are alike",
+   "note": "Zoya · 2026-11-12 · Толстой, « Анна Каренина »",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "6ffee17fa4",
+   "ru": "по-своему",
+   "tr": "in its own way",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
+   "id": "0e944b339a",
+   "ru": "остроумно",
+   "tr": "witty",
+   "note": "Zoya · 2026-11-12",
+   "tags": [
+    "cours-2026-11-12-zoya"
+   ]
+  },
+  {
    "id": "73c8e5a474",
    "ru": "Мой мозг сгорел",
    "tr": "My brain was fried",
