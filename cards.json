@@ -1,6 +1,420 @@
 {
  "cards": [
   {
+   "id": "8a5be6969d",
+   "ru": "Я давно проснулась",
+   "tr": "I woke up ages ago",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "09ab7f6616",
+   "ru": "лексика и грамматика",
+   "tr": "vocabulary and grammar",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "8e55cead99",
+   "ru": "аудирование",
+   "tr": "listening comprehension",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "edb9aa5fae",
+   "ru": "говорение",
+   "tr": "speaking (exam section)",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "81c4edb3b4",
+   "ru": "из любопытства",
+   "tr": "out of curiosity",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "b630dfd13f",
+   "ru": "вернуться к этому",
+   "tr": "to get back into it",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "f29e6d7044",
+   "ru": "Это есть во мне",
+   "tr": "It's in me",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "0c8aa82d9d",
+   "ru": "в автоматическом режиме",
+   "tr": "on autopilot",
+   "note": "Daria · 2026-11-14 · correction : pas « моде »",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "14f834236d",
+   "ru": "снова и снова",
+   "tr": "again and again",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "877c7730f8",
+   "ru": "машинально",
+   "tr": "mechanically, without thinking",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "9cb56ae73b",
+   "ru": "рефлексировать",
+   "tr": "to reflect",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "9a8e4c40cb",
+   "ru": "смысл жизни",
+   "tr": "the meaning of life",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "5873a8683d",
+   "ru": "на дне",
+   "tr": "at rock bottom",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "042b82ea09",
+   "ru": "Если ты достигнешь цели",
+   "tr": "If you reach your goal",
+   "note": "Daria · 2026-11-14 · correction : futur (pas « достиг »)",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "90dc6c58ae",
+   "ru": "не как мы",
+   "tr": "not like us",
+   "note": "Daria · 2026-11-14 · correction : pas « не как нас »",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "252ad3d477",
+   "ru": "олицетворять",
+   "tr": "to embody",
+   "note": "Daria · 2026-11-14 · лицо + творить",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "4a67a82f58",
+   "ru": "освежающе",
+   "tr": "refreshing",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "cfbdaf8698",
+   "ru": "суффикс «-ка»",
+   "tr": "the suffix \"-ka\"",
+   "note": "Daria · 2026-11-14 · Ленка, Дашка : familier, parfois grossier",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "7e8535e988",
+   "ru": "фамильярное обращение",
+   "tr": "overly familiar form of address",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "94a6913ad9",
+   "ru": "Никогда не перестаёт",
+   "tr": "It never stops",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "ebdf347dc9",
+   "ru": "Я не подписывался на это",
+   "tr": "I didn't sign up for this",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "5abd6daae8",
+   "ru": "шуточный тест",
+   "tr": "joke quiz",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "7f0e6b6a4b",
+   "ru": "мой друг",
+   "tr": "a friend of mine",
+   "note": "Daria · 2026-11-14 · correction : pas « друг от меня »",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "50dc16d550",
+   "ru": "пробуждаться",
+   "tr": "to wake up (literary)",
+   "note": "Daria · 2026-11-14 · = просыпаться",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "b77e75673f",
+   "ru": "дуэль",
+   "tr": "duel",
+   "note": "Daria · 2026-11-14 · вызвать на дуэль",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "248a96dbee",
+   "ru": "мудрец",
+   "tr": "sage, wise man",
+   "note": "Daria · 2026-11-14 · мудрый",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "aba5f41c94",
+   "ru": "лопата",
+   "tr": "shovel",
+   "note": "Daria · 2026-11-14 · лопатка = small shovel",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "cb19d4a660",
+   "ru": "обливаться холодной водой",
+   "tr": "to douse oneself with cold water",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "d8dc3b5c50",
+   "ru": "мороз",
+   "tr": "frost, freezing cold",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "75e18048fa",
+   "ru": "бакенбарды",
+   "tr": "sideburns",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "9c74610356",
+   "ru": "щётка",
+   "tr": "brush",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "4bbab556bd",
+   "ru": "трость",
+   "tr": "walking stick, cane",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "abc57680c8",
+   "ru": "отращивать ногти",
+   "tr": "to grow one's nails",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "8d35e00f75",
+   "ru": "дельный человек",
+   "tr": "a sensible, capable person",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "9c35a2efa3",
+   "ru": "званый обед",
+   "tr": "formal dinner party",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "eb0319d069",
+   "ru": "барышня на выданье",
+   "tr": "a young lady of marriageable age",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "a01364cf4a",
+   "ru": "были вынуждены",
+   "tr": "were forced to",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "3982ee8cfb",
+   "ru": "непристойные стихи",
+   "tr": "indecent verses",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "68b148d6a9",
+   "ru": "на поводке",
+   "tr": "on a leash",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "6e3a178629",
+   "ru": "прозрачный",
+   "tr": "transparent, see-through",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "f6afee525c",
+   "ru": "возмущены",
+   "tr": "outraged",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "0287356a60",
+   "ru": "веер",
+   "tr": "(hand) fan",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "64f31c88a5",
+   "ru": "неподходящий предмет",
+   "tr": "an unsuitable object",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "e4fca20d06",
+   "ru": "собственный парик",
+   "tr": "one's own wig",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "3f901f54d3",
+   "ru": "запрещённая цензурой книга",
+   "tr": "a book banned by the censors",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
+   "id": "4538cca8f8",
+   "ru": "карман",
+   "tr": "pocket",
+   "note": "Daria · 2026-11-14",
+   "tags": [
+    "cours-2026-11-14-daria"
+   ]
+  },
+  {
    "id": "294193b685",
    "ru": "функционировать",
    "tr": "to function",
