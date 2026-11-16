@@ -1,6 +1,411 @@
 {
  "cards": [
   {
+   "id": "204d6d9611",
+   "ru": "высокая температура",
+   "tr": "high temperature, fever",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "68e4c77078",
+   "ru": "сделать тест",
+   "tr": "to take a test",
+   "note": "Zoya · 2026-11-16 · это не ковид",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "fad2d6ebd9",
+   "ru": "вождение",
+   "tr": "driving (lessons)",
+   "note": "Zoya · 2026-11-16 · de « водить »",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "f7737dbb24",
+   "ru": "забронировать все четверги",
+   "tr": "to book every Thursday",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "954e763cd4",
+   "ru": "Он нашёл и убил",
+   "tr": "He found and killed",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "df29cd81c1",
+   "ru": "по многим причинам",
+   "tr": "for many reasons",
+   "note": "Zoya · 2026-11-16 · correction : pas « для многих причин »",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "c1c01a4a3d",
+   "ru": "токсичная пара",
+   "tr": "a toxic couple",
+   "note": "Zoya · 2026-11-16 · correction : pas « токсические »",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "f5bc379f51",
+   "ru": "держать интригу",
+   "tr": "to keep up the suspense",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "7dc8f621a3",
+   "ru": "Что-то ужасное произошло",
+   "tr": "Something terrible happened",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "16e75a9754",
+   "ru": "няня с проживанием",
+   "tr": "live-in nanny, au pair",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "253d4e9323",
+   "ru": "трое детей",
+   "tr": "three children",
+   "note": "Zoya · 2026-11-16 · correction : pas « три дети »",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "cb85da547f",
+   "ru": "Я уже не могу это делать",
+   "tr": "I can't do this any more",
+   "note": "Zoya · 2026-11-16 · correction : pas « я ещё не могу »",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "9562100e5b",
+   "ru": "работать на родителей, с детьми",
+   "tr": "to work for the parents, with the children",
+   "note": "Zoya · 2026-11-16 · на = vertical, с = horizontal",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "6f8bfa02d0",
+   "ru": "У неё большие запросы",
+   "tr": "She has high demands",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "9d70e339c2",
+   "ru": "поисковый запрос",
+   "tr": "search query",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "025a96f437",
+   "ru": "Ни к чему не пришло",
+   "tr": "It came to nothing",
+   "note": "Zoya · 2026-11-16 · прийти к + datif",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "9c7abf3fba",
+   "ru": "прийти к успеху",
+   "tr": "to achieve success",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "eb7df60b10",
+   "ru": "Хрен с ним!",
+   "tr": "Screw it!",
+   "note": "Zoya · 2026-11-16 · familier",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "d00e943bba",
+   "ru": "Я попробую ещё раз",
+   "tr": "I'll try again",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "542bd23daf",
+   "ru": "Увижу ли я её ещё раз?",
+   "tr": "Will I see her again?",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "3b943e9ef9",
+   "ru": "Чем это труднее получить, тем больше я этого хочу",
+   "tr": "The harder it is to get, the more I want it",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "beece876ff",
+   "ru": "одержать победу над",
+   "tr": "to win against, to triumph over",
+   "note": "Zoya · 2026-11-16 · + instrumental",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "b717a32775",
+   "ru": "по сообщениям",
+   "tr": "in messages, by text",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "4274373bd9",
+   "ru": "подойти к ней",
+   "tr": "to go up to her",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "10607e07a3",
+   "ru": "Ей комфортно",
+   "tr": "She feels comfortable",
+   "note": "Zoya · 2026-11-16 · correction : datif (pas « она комфортно »)",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "e71ac3c9f8",
+   "ru": "Я сдал экзамен",
+   "tr": "I passed the exam",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "8fd2da6d4e",
+   "ru": "закрытый тест",
+   "tr": "multiple-choice test",
+   "note": "Zoya · 2026-11-16 · ≠ открытый",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "4453c8c6d2",
+   "ru": "научиться читать",
+   "tr": "to learn to read",
+   "note": "Zoya · 2026-11-16 · учить qn = enseigner (+ accusatif)",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "18cad81189",
+   "ru": "освоить навык",
+   "tr": "to master a skill",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "623b17679a",
+   "ru": "У меня получился вкусный торт",
+   "tr": "My cake came out delicious",
+   "note": "Zoya · 2026-11-16 · le verbe s'accorde avec le sujet",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "30e63da10e",
+   "ru": "грамматический субъект",
+   "tr": "grammatical subject",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "d9282d87e0",
+   "ru": "пассивный залог",
+   "tr": "passive voice",
+   "note": "Zoya · 2026-11-16 · основана кем (instrumental)",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "700a9e7b09",
+   "ru": "Москва основана Юрием Долгоруким",
+   "tr": "Moscow was founded by Yuri Dolgoruky",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "04c204545f",
+   "ru": "заниматься танцами",
+   "tr": "to dance (as a hobby)",
+   "note": "Zoya · 2026-11-16 · заниматься, увлекаться, интересоваться + instrumental",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "386988fc50",
+   "ru": "за час до семи вечера",
+   "tr": "an hour before 7 p.m.",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "df6ae9d2e3",
+   "ru": "пройти к галерее",
+   "tr": "to go towards the gallery",
+   "note": "Zoya · 2026-11-16 · к + datif",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "25de025478",
+   "ru": "Принесите!",
+   "tr": "Bring it (now)!",
+   "note": "Zoya · 2026-11-16 · ≠ приносите (regularly)",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "45dc8c6b52",
+   "ru": "Говорите громче",
+   "tr": "Speak louder",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "d472afc635",
+   "ru": "вставать рано утром",
+   "tr": "to get up early",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "455790fa48",
+   "ru": "Мне уже можно…?",
+   "tr": "Am I allowed to … yet?",
+   "note": "Zoya · 2026-11-16 · ≠ нельзя, не нужно",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "b91f1ad204",
+   "ru": "быть известным чем",
+   "tr": "to be famous for",
+   "note": "Zoya · 2026-11-16 · + instrumental",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "5c5e91eb48",
+   "ru": "готовы к экзамену",
+   "tr": "ready for the exam",
+   "note": "Zoya · 2026-11-16 · correction : pas « по экзамену »",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "ca3d869502",
+   "ru": "мягкий знак",
+   "tr": "soft sign",
+   "note": "Zoya · 2026-11-16 · -ться = infinitif",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "d5432772bc",
+   "ru": "продолжаться",
+   "tr": "to continue (intr.)",
+   "note": "Zoya · 2026-11-16 · будет продолжаться",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
+   "id": "87bd458517",
+   "ru": "рождественские каникулы",
+   "tr": "Christmas holidays",
+   "note": "Zoya · 2026-11-16",
+   "tags": [
+    "cours-2026-11-16-zoya"
+   ]
+  },
+  {
    "id": "8a5be6969d",
    "ru": "Я давно проснулась",
    "tr": "I woke up ages ago",
