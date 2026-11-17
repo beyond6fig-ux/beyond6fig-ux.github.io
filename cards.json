@@ -1,6 +1,447 @@
 {
  "cards": [
   {
+   "id": "378d70683e",
+   "ru": "в начале первого",
+   "tr": "shortly after midnight",
+   "note": "Zoya · 2026-11-17 · « первого » = la 1re heure (00h–01h)",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "01b7f4b670",
+   "ru": "Я не выспалась",
+   "tr": "I didn't get enough sleep",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "a9316f21b7",
+   "ru": "Я как зомби",
+   "tr": "I'm like a zombie",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "135969bfe2",
+   "ru": "Быстрее, ещё быстрее!",
+   "tr": "Faster, even faster!",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "944524644e",
+   "ru": "Если мы умрём, ты сам виноват",
+   "tr": "If we die, it's your own fault",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "31f0b903e6",
+   "ru": "Я сосредоточилась",
+   "tr": "I concentrated",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "ff2ee41ce3",
+   "ru": "крутить руль",
+   "tr": "to turn the steering wheel",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "95e5d3c5a0",
+   "ru": "давить на газ",
+   "tr": "to step on the gas",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "719e1a7e3a",
+   "ru": "перенести занятие",
+   "tr": "to reschedule a lesson",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "89ea9b4b12",
+   "ru": "взять кровь на анализ",
+   "tr": "to take a blood sample",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "a5b52a3a0b",
+   "ru": "сдать кровь",
+   "tr": "to give blood (for a test)",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "2436c3e690",
+   "ru": "на другой руке",
+   "tr": "on the other arm",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "1efec39bec",
+   "ru": "Я вернусь",
+   "tr": "I'll come back",
+   "note": "Zoya · 2026-11-17 · correction : pas « я перевернусь »",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "5106e7065d",
+   "ru": "перелить",
+   "tr": "to pour (from one container into another)",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "91f25e55ef",
+   "ru": "принимать витамины",
+   "tr": "to take vitamins",
+   "note": "Zoya · 2026-11-17 · correction : pas « взять витамины »",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "6d5046f44f",
+   "ru": "витамины на 3 месяца",
+   "tr": "a 3-month supply of vitamins",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "b4b5ef0dfb",
+   "ru": "негативная спираль",
+   "tr": "vicious circle",
+   "note": "Zoya · 2026-11-17 · correction : féminin",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "f2168f970a",
+   "ru": "Это того не стоит",
+   "tr": "It's not worth it",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "f7ccadafd4",
+   "ru": "урок пианино",
+   "tr": "piano lesson",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "fee27e30d0",
+   "ru": "практиковаться в игре",
+   "tr": "to practise playing",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "31a9e02238",
+   "ru": "Лучше меньше, но регулярно",
+   "tr": "Better less, but regularly",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "831d20c08c",
+   "ru": "таймер",
+   "tr": "timer",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "fe0536d6be",
+   "ru": "через 3 месяца",
+   "tr": "in 3 months",
+   "note": "Zoya · 2026-11-17 · correction : pas « на 3 месяца »",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "80aa7de878",
+   "ru": "тренировать продавца",
+   "tr": "to train a salesperson",
+   "note": "Zoya · 2026-11-17 · correction : pas « продаться »",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "78a22f95f4",
+   "ru": "отвечать на вопрос",
+   "tr": "to answer a question",
+   "note": "Zoya · 2026-11-17 · correction : на + accusatif",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "eba0b0dfbd",
+   "ru": "Люди лгут сами себе",
+   "tr": "People lie to themselves",
+   "note": "Zoya · 2026-11-17 · correction : pas « лжут »",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "dfada904ed",
+   "ru": "разница во времени",
+   "tr": "time difference",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "f9fa554ee9",
+   "ru": "бразилец",
+   "tr": "Brazilian (man)",
+   "note": "Zoya · 2026-11-17 · correction : pas « бразилянец »",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "718717d0c1",
+   "ru": "слушать его",
+   "tr": "to listen to him",
+   "note": "Zoya · 2026-11-17 · sans « на »",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "d61ab175c6",
+   "ru": "Я сделала вид, что удивлена",
+   "tr": "I pretended to be surprised",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "d14d7143d4",
+   "ru": "Он просто пропал",
+   "tr": "He just disappeared",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "0362e90e20",
+   "ru": "Я не могу отказать",
+   "tr": "I can't say no",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "b401c08b7d",
+   "ru": "у человека должен быть стимул",
+   "tr": "a person needs an incentive",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "d97f059088",
+   "ru": "социальное неравенство",
+   "tr": "social inequality",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "9290c0da43",
+   "ru": "вечная проблема",
+   "tr": "eternal problem",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "65acb74cd5",
+   "ru": "Сытый голодного не разумеет",
+   "tr": "The well-fed don't understand the hungry",
+   "note": "Zoya · 2026-11-17 · разуметь = понимать",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "2d783072d8",
+   "ru": "частный спортзал",
+   "tr": "private gym",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "0f5ffc7d65",
+   "ru": "с серебряной ложкой во рту",
+   "tr": "born with a silver spoon",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "9222dd9732",
+   "ru": "проповедница",
+   "tr": "preacher (f.)",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "46b3a94a0a",
+   "ru": "свидетельница Иеговы",
+   "tr": "Jehovah's Witness (f.)",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "3e1f108d1e",
+   "ru": "разрыв шаблона",
+   "tr": "mind blown, broken pattern",
+   "note": "Zoya · 2026-11-17 · argot",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "ee18639eb3",
+   "ru": "потомственный аристократ",
+   "tr": "hereditary aristocrat",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "1c05ccc32a",
+   "ru": "нувориши",
+   "tr": "the nouveaux riches",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "b41f01944d",
+   "ru": "тонко",
+   "tr": "subtly",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "9fe9e943a7",
+   "ru": "мошенница",
+   "tr": "con woman, fraudster",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "95bccf08db",
+   "ru": "вульгарно",
+   "tr": "vulgar",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "649fc35e0c",
+   "ru": "высоко себя ставить",
+   "tr": "to value oneself highly",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "df500b9796",
+   "ru": "быть в заблуждении",
+   "tr": "to be mistaken",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
+   "id": "aed0e781f6",
+   "ru": "сместить занятие на полчаса",
+   "tr": "to shift a lesson by half an hour",
+   "note": "Zoya · 2026-11-17",
+   "tags": [
+    "cours-2026-11-17-zoya"
+   ]
+  },
+  {
    "id": "204d6d9611",
    "ru": "высокая температура",
    "tr": "high temperature, fever",
