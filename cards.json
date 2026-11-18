@@ -1,6 +1,555 @@
 {
  "cards": [
   {
+   "id": "22196a3131",
+   "ru": "Мне не понравилось бы, если бы я был в детском саду",
+   "tr": "I wouldn't have liked being in kindergarten",
+   "note": "Zoya · 2026-11-18 · conditionnel : бы dans les deux parties",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "8a4d871077",
+   "ru": "Один в один",
+   "tr": "The spitting image",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "ab573a7585",
+   "ru": "поднять трубку",
+   "tr": "to pick up the phone",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "953e441122",
+   "ru": "Он отключился",
+   "tr": "He passed out, he crashed",
+   "note": "Zoya · 2026-11-18 · быть в отключке",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "5311649155",
+   "ru": "ломиться в дверь",
+   "tr": "to bang on the door",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "02742b099c",
+   "ru": "орать",
+   "tr": "to yell, to scream",
+   "note": "Zoya · 2026-11-18 · familier",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "01bac63eb3",
+   "ru": "У него режутся зубы",
+   "tr": "He's teething",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "f8fc9095fc",
+   "ru": "Волосы выгорели на солнце",
+   "tr": "The hair got bleached by the sun",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "95cb149832",
+   "ru": "кучерявые волосы",
+   "tr": "curly hair",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "4de5b91cbf",
+   "ru": "потемнеть",
+   "tr": "to get darker",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "f7cfbd30c5",
+   "ru": "покрасить волосы",
+   "tr": "to dye one's hair",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "fe049f9163",
+   "ru": "Какой твой тип девушки?",
+   "tr": "What's your type (of girl)?",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "65e5fc8891",
+   "ru": "с голубыми глазами",
+   "tr": "with blue eyes",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "092164e2c7",
+   "ru": "Кто вернулся?",
+   "tr": "Who came back?",
+   "note": "Zoya · 2026-11-18 · кто → toujours au masculin",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "811d45c794",
+   "ru": "Она появилась",
+   "tr": "She showed up",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "067767bf36",
+   "ru": "Увидимся ли мы?",
+   "tr": "Will we see each other?",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "d469fef37b",
+   "ru": "Он напомнил мне",
+   "tr": "He reminded me",
+   "note": "Zoya · 2026-11-18 · correction : pas « вспомнил меня »",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "6beb436498",
+   "ru": "полуфранцуженка",
+   "tr": "half-French woman",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "e5d3c38b1b",
+   "ru": "ещё одну",
+   "tr": "another one",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "30170336b7",
+   "ru": "эффектная",
+   "tr": "striking, stunning",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "8685c2c8d2",
+   "ru": "выделяться среди остальных",
+   "tr": "to stand out from the rest",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "5832cfd84f",
+   "ru": "на Западе",
+   "tr": "in the West",
+   "note": "Zoya · 2026-11-18 · correction : pas « в Западе »",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "cd3be5a76d",
+   "ru": "восточная генетика",
+   "tr": "Eastern genes",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "d30bf3bfe7",
+   "ru": "Он был очень взволнован",
+   "tr": "He was very excited",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "eeb25c8b1b",
+   "ru": "чернокожий человек",
+   "tr": "black person",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "f498976c8e",
+   "ru": "сломать чары",
+   "tr": "to break the spell",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "f2a885fb1c",
+   "ru": "надежды на него",
+   "tr": "hopes in him",
+   "note": "Zoya · 2026-11-18 · correction : надежда на + accusatif",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "f83c65c6b6",
+   "ru": "Я не буду разочарован",
+   "tr": "I won't be disappointed",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "3536a507e4",
+   "ru": "Я не злюсь",
+   "tr": "I'm not angry",
+   "note": "Zoya · 2026-11-18 · злиться",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "0ec3f4d8b4",
+   "ru": "Это первая победа для меня",
+   "tr": "It's my first victory",
+   "note": "Zoya · 2026-11-18 · correction : pas « для себя » (le sujet est « победа »)",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "d28ebc0fe7",
+   "ru": "Как вы представляете себе…?",
+   "tr": "How do you picture…?",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "7441b2fe86",
+   "ru": "нищий",
+   "tr": "beggar, destitute",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "21e3d849d7",
+   "ru": "забрать чемодан из машины",
+   "tr": "to get the suitcase out of the car",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "396c61c6be",
+   "ru": "в старшей школе",
+   "tr": "in high school",
+   "note": "Zoya · 2026-11-18 · correction : pas « в высокой школе »",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "f6e8612818",
+   "ru": "лососевый цвет",
+   "tr": "salmon colour",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "bffaeb72d8",
+   "ru": "мало примеров",
+   "tr": "few examples",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "0f33106d34",
+   "ru": "от личности",
+   "tr": "depending on personality",
+   "note": "Zoya · 2026-11-18 · зависеть от",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "09384a129c",
+   "ru": "на Елисейских полях",
+   "tr": "on the Champs-Élysées",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "9da59df48b",
+   "ru": "прямо в лицо",
+   "tr": "right to your face",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "bd3577d5ef",
+   "ru": "вилла на берегу",
+   "tr": "seaside villa",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "c114c13822",
+   "ru": "разница в доходах",
+   "tr": "income gap",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "c85f227124",
+   "ru": "жить во дворцах",
+   "tr": "to live in palaces",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "7d7af0ac3b",
+   "ru": "газовое отопление",
+   "tr": "gas heating",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "4c73d7f321",
+   "ru": "топить дровами",
+   "tr": "to heat with firewood",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "f378d3ac7c",
+   "ru": "нанять репетитора",
+   "tr": "to hire a tutor",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "f3579bceda",
+   "ru": "мучиться",
+   "tr": "to struggle, to suffer",
+   "note": "Zoya · 2026-11-18 · бороться = to fight ; стараться = faire des efforts",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "fa07268899",
+   "ru": "урождённый билингв",
+   "tr": "native bilingual",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "80a7f15433",
+   "ru": "Родитель 1, родитель 2",
+   "tr": "Parent 1, parent 2",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "c489481ff7",
+   "ru": "быть терпеливым",
+   "tr": "to be patient",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "5610b0a5f6",
+   "ru": "записаться к врачу",
+   "tr": "to make a doctor's appointment",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "a99d8e0710",
+   "ru": "валовый внутренний продукт",
+   "tr": "gross domestic product",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "eae4b3971d",
+   "ru": "прожиточный минимум",
+   "tr": "subsistence minimum",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "73783f347e",
+   "ru": "распределить бюджет",
+   "tr": "to allocate the budget",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "c193327c59",
+   "ru": "добывать",
+   "tr": "to mine, to extract",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "d7cba3b02b",
+   "ru": "получить хорошую оценку",
+   "tr": "to get a good grade",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "b4b0094282",
+   "ru": "рост объёмов",
+   "tr": "growth in volume",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "3eb9e63420",
+   "ru": "снижение темпов",
+   "tr": "slowdown",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "974ea0e7b3",
+   "ru": "8,9 — восемь целых девять десятых",
+   "tr": "8.9",
+   "note": "Zoya · 2026-11-18 · 6,32 = шесть целых тридцать две сотых",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "0ec7f897a2",
+   "ru": "оплатить услугу",
+   "tr": "to pay for a service",
+   "note": "Zoya · 2026-11-18 · ≠ отплатить (se venger)",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "c50ab3ca43",
+   "ru": "отплатить врагам",
+   "tr": "to pay back one's enemies",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
+   "id": "fa361a80bd",
+   "ru": "отменить занятие",
+   "tr": "to cancel a lesson",
+   "note": "Zoya · 2026-11-18",
+   "tags": [
+    "cours-2026-11-18-zoya"
+   ]
+  },
+  {
    "id": "378d70683e",
    "ru": "в начале первого",
    "tr": "shortly after midnight",
