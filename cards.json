@@ -1,6 +1,339 @@
 {
  "cards": [
   {
+   "id": "da67989c52",
+   "ru": "Мой кот умер",
+   "tr": "My cat died",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "31142e4f7a",
+   "ru": "Такая жизнь",
+   "tr": "That's life",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "af2b8b4eb0",
+   "ru": "в тот же день",
+   "tr": "on the same day",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "fcec89edce",
+   "ru": "Нам нужно созвониться",
+   "tr": "We need to talk on the phone",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "2a47d7fc3c",
+   "ru": "против моей веры",
+   "tr": "against my faith",
+   "note": "Daria · 2026-11-21 · correction : pas « верования »",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "9497e10085",
+   "ru": "звучит правильно",
+   "tr": "sounds right",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "76f5e0464c",
+   "ru": "вернуться в строй",
+   "tr": "to get back on track",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "37bb8e8051",
+   "ru": "день переезда",
+   "tr": "moving day",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "056f3b77f3",
+   "ru": "продать дом в обмен на квартиру",
+   "tr": "to sell a house in exchange for a flat",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "dbaa1120bc",
+   "ru": "Она привыкла",
+   "tr": "She got used to it",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "7ffc82ddd5",
+   "ru": "сад и огород",
+   "tr": "garden and vegetable patch",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "b4aba517a5",
+   "ru": "путешествовать по Южной Америке",
+   "tr": "to travel around South America",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "2625d9e8f7",
+   "ru": "если всё будет по плану",
+   "tr": "if everything goes to plan",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "923758e929",
+   "ru": "И всё никак",
+   "tr": "And still nothing worked",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "8300d98192",
+   "ru": "Они просыпаются рано",
+   "tr": "They wake up early",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "3608558d63",
+   "ru": "совсем темно",
+   "tr": "pitch black",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "e2e800c81d",
+   "ru": "отзывы",
+   "tr": "reviews, feedback",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "30c27cc0ec",
+   "ru": "Это не мой вайб",
+   "tr": "It's not my vibe",
+   "note": "Daria · 2026-11-21 · familier",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "4b5bd09510",
+   "ru": "лазить по деревьям",
+   "tr": "to climb trees",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "e3a4e6ddb6",
+   "ru": "пырнуть ножом",
+   "tr": "to stab",
+   "note": "Daria · 2026-11-21 · argot",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "2b12f95d72",
+   "ru": "бросить полотенце",
+   "tr": "to throw in the towel",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "6bbf32d3c0",
+   "ru": "прямой эфир",
+   "tr": "live stream",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "8c95a1be11",
+   "ru": "индивидуально",
+   "tr": "one-on-one",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "2b4fae9414",
+   "ru": "Он станет более включённым",
+   "tr": "He'll get more involved",
+   "note": "Daria · 2026-11-21 · correction : pas « он стать »",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "675514771b",
+   "ru": "доехать",
+   "tr": "to get to (by transport)",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "04cad7a7ec",
+   "ru": "отключиться",
+   "tr": "to disconnect, to switch off",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "c25833ba8d",
+   "ru": "поставить таймер на 15 минут",
+   "tr": "to set a timer for 15 minutes",
+   "note": "Daria · 2026-11-21 · = установить ; поставить est plus familier",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "75ecc66cca",
+   "ru": "Трудная часть — начать",
+   "tr": "The hard part is starting",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "349f508bfd",
+   "ru": "Заставлю себя",
+   "tr": "I'll force myself",
+   "note": "Daria · 2026-11-21 · correction : pas « заставлю меня »",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "3b5df6f009",
+   "ru": "упражнение Ганона",
+   "tr": "Hanon exercise",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "21c86c3102",
+   "ru": "эгоцентричный",
+   "tr": "self-centred",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "1ff384a968",
+   "ru": "призвать своё эго",
+   "tr": "to summon one's ego",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "d69d19cb00",
+   "ru": "Вот увидишь!",
+   "tr": "Just watch me! You'll see!",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "b4f36e4641",
+   "ru": "Не так уж и трудно, как я думал",
+   "tr": "It's not as hard as I thought",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "dec1dfeaef",
+   "ru": "промывать мозги",
+   "tr": "to brainwash",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "0f188fa63c",
+   "ru": "Расслабься как следует",
+   "tr": "Relax properly",
+   "note": "Daria · 2026-11-21",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
+   "id": "4dc86a465a",
+   "ru": "после звонков",
+   "tr": "after the calls",
+   "note": "Daria · 2026-11-21 · génitif pluriel",
+   "tags": [
+    "cours-2026-11-21-daria"
+   ]
+  },
+  {
    "id": "22196a3131",
    "ru": "Мне не понравилось бы, если бы я был в детском саду",
    "tr": "I wouldn't have liked being in kindergarten",
